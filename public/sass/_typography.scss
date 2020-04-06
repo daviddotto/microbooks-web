@@ -1,0 +1,22 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+	max-width: 20em;
+}
+
+p {
+	max-width: 30em;
+}
+
+.right-align {
+	@media (min-width: $s_breakpoint--narrow) {
+		text-align: right;
+		float: right;
+	}
+}
+
+.center-align {
+	text-align: center;
+}

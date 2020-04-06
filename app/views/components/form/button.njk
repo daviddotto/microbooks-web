@@ -1,0 +1,20 @@
+{% from '../content/icon.njk' import icon %}
+{% macro button(props) %}
+    {% if props.href %}
+        <a href="{{ props.href }}" class="button {{ 'disabled' if props.disabled }} {{ props.classes }}" {{ ('id="' + props.id + '"') | safe if props.id }}>
+            {% if props.icon %}
+                {{ icon(props.icon) }}
+            {% endif %}
+            {{ props.text | default('Continue') }}
+        </a>
+    {% else %}
+        {% if not props.ejectFromGroup %}<div class="form-group">{% endif %}
+            <button type="{{ props.type | default('submit') }}" {{ 'disabled="disabled"' | safe if props.disabled }} class="{{ props.classes }}" {{ ('id="' + props.id + '"') | safe if props.id }}>
+                {% if props.icon %}
+                    {{ icon(props.icon) }}
+                {% endif %}
+                {{ (props.html | safe) if props.html else (props.text | default('Continue')) }}
+            </button>
+        {% if not props.ejectFromGroup %}</div>{% endif %}
+    {% endif %}
+{% endmacro %}

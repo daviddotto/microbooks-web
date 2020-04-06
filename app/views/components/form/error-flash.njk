@@ -1,0 +1,11 @@
+{% from '../content/icon.njk' import icon %}
+{% macro errorFlash(props) %}
+    {% if props.content %}
+        <div class="flash error-flash">
+            <p>
+                {{ icon('error-cross') }}
+                {{ props.content }}
+            </p>
+        </div>
+    {% endif %}
+{% endmacro %}

@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Sign in or create an account
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="column-two-thirds">
+            <h1>
+                How would you like to sign in?
+            </h1>
+
+            <div class="apple-button">
+                <div id="appleid-signin" data-color="black" data-border="true" data-type="continue"></div>
+            </div>
+
+            {{ button({
+                href: '/account/email',
+                text: 'Continue with email address'
+            }) }}
+
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block pageScripts %}
+
+    <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
+    <script type="text/javascript">
+      AppleID.auth.init({
+        clientId : '[CLIENT_ID]',
+        scope : '[SCOPES]',
+        redirectURI : '[REDIRECT_URI]',
+        state : '[STATE]',
+        usePopup : false //or false defaults to false
+      });
+    </script>
+
+{% endblock %}

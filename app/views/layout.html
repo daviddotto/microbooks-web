@@ -1,0 +1,65 @@
+{% from './components/form/input.njk' import input %}
+{% from './components/form/button.njk' import button %}
+{% from './components/form/radios.njk' import radios %}
+{% from './components/form/checkboxes.njk' import checkboxes %}
+{% from './components/form/textarea.njk' import textarea %}
+{% from './components/form/success-flash.njk' import successFlash %}
+{% from './components/form/error-flash.njk' import errorFlash %}
+{% from './components/content/icon.njk' import icon %}
+{% from './components/content/back-link.njk' import backLink %}
+{% from './components/content/summary-list.njk' import summaryList %}
+{% from './components/site/header.njk' import header %}
+{% from './components/site/footer.njk' import footer %}
+
+<!doctype html>
+<html class="no-js" lang="en">
+<head prefix="og: http://ogp.me/ns#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, viewport-fit=cover">
+
+    <title>
+        {% block pageTitle %}
+            Site name
+        {% endblock %}
+    </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script>(function (e) { e.className = e.className.replace('no-js', 'js') }(document.documentElement))</script>
+    <!--[if lt IE 9]>
+    <script>
+        (function (d, a) {
+            d.documentElement.className = 'lt-ie9'; var l = a.length; while(l--){ d.createElement(a[l]); }
+        }(document, ['HEADER', 'NAV', 'SECTION', 'FOOTER', 'ARTICLE', 'MAIN', 'FIGCAPTION', 'FIGURE', 'ASIDE']));
+    </script>
+    <![endif]-->
+
+    {% include "includes/head.html" %}
+
+</head>
+<body class="{{ activeLink }}">
+
+{% block header %}
+    {{ header({
+        activeLink: activeLink
+    }) }}
+{% endblock %}
+
+<main id="content" role="main" tabindex="-1">
+    {% block content %}{% endblock %}
+</main>
+
+{% block footer %}
+    {{ footer() }}
+{% endblock %}
+
+{% block scripts %}
+    {% include "includes/scripts.html" %}
+    {% block pageScripts %}{% endblock %}
+{% endblock %}
+
+</body>
+</html>

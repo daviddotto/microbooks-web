@@ -1,0 +1,17 @@
+@import 'variables';
+footer#site-footer {
+	background-color: $c_white;
+	@media (prefers-color-scheme: dark) {
+		background-color: $c_black;
+	}
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.footer-logo {
+	margin: 4em 0;
+	svg {
+		max-width: 10em;
+		opacity: 0.2;
+	}
+}

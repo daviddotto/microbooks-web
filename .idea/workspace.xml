@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0638be74-a017-42cd-82e7-7661c0e1d700" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZRSDaqsM6Z1E0NhXpKttCg828K" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/standard" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/sass" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0638be74-a017-42cd-82e7-7661c0e1d700" name="Default Changelist" comment="" />
+      <created>1584800294165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584800294165</updated>
+      <workItem from="1584800295674" duration="328000" />
+      <workItem from="1584800649274" duration="5417000" />
+      <workItem from="1584825775497" duration="12255000" />
+      <workItem from="1584878995681" duration="13624000" />
+      <workItem from="1585647122483" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3958" y="463" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584893571177">
+      <screen x="2560" y="-291" width="3360" height="1867" />
+    </state>
+    <state x="3958" y="463" key="#com.intellij.fileTypes.FileTypeChooser/2560.-291.3360.1867/0.23.2560.1326@2560.-291.3360.1867" timestamp="1584893571177" />
+    <state x="3928" y="366" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584800613147">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state x="3928" y="366" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584800613147" />
+    <state x="3999" y="522" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584874644366">
+      <screen x="2560" y="-291" width="3360" height="1867" />
+    </state>
+    <state x="3999" y="522" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.-291.3360.1867/0.23.2560.1326@2560.-291.3360.1867" timestamp="1584874644366" />
+    <state x="3999" y="509" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584802381833" />
+    <state width="3318" height="572" key="GridCell.Tab.0.bottom" timestamp="1584800632896">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.bottom/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584800632896" />
+    <state width="3318" height="572" key="GridCell.Tab.0.center" timestamp="1584800632895">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.center/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584800632895" />
+    <state width="3318" height="572" key="GridCell.Tab.0.left" timestamp="1584800632894">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.left/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584800632894" />
+    <state width="3318" height="572" key="GridCell.Tab.0.right" timestamp="1584800632895">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.right/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584800632895" />
+    <state x="3749" y="286" key="SettingsEditor" timestamp="1584893819964">
+      <screen x="2560" y="-291" width="3360" height="1867" />
+    </state>
+    <state x="3749" y="286" key="SettingsEditor/2560.-291.3360.1867/0.23.2560.1326@2560.-291.3360.1867" timestamp="1584893819964" />
+    <state x="3749" y="270" key="SettingsEditor/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584802368980" />
+    <state x="3911" y="386" width="658" height="490" key="find.popup" timestamp="1584826527559">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state x="3911" y="386" width="658" height="490" key="find.popup/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584826527559" />
+    <state x="3627" y="231" key="new project wizard" timestamp="1584801200706">
+      <screen x="2560" y="-314" width="3360" height="1890" />
+    </state>
+    <state x="3627" y="231" key="new project wizard/2560.-314.3360.1890/0.0.2560.1440@2560.-314.3360.1890" timestamp="1584801200706" />
+  </component>
+</project>

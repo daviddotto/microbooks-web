@@ -1,0 +1,38 @@
+{% macro radios(props) %}
+    {% set error = props.errorData | errorFor(props.name) %}
+    {% set attributesString = '' %}{% for attr in props.attributes %}{% set attributesString = attributesString + (attr.key + '="' + attr.value + '" ') %}{% endfor %}
+    <fieldset class="form-group {{ props.classes }}  {{ 'error-group' if error }}">
+    
+        <legend class="{{ 'visually-hidden' if props.hideLabel else props.labelClasses }}">{{ '<h1>' | safe if props.large }}{{ props.label }}{% if props.isOptional %} <span class="optional-flag">(Optional)</span>{% endif %}{{ '</h1>' | safe if props.large }}</legend>
+
+        {% if props.hint %}
+            <p class="hint {{ 'large' if props.large }}">{{ props.hint }}</p>
+        {% endif %}
+        {% if error %}
+            {% for item in error %}
+            <p class="error-label">{{ item.msg }}</p>
+            {% endfor%}
+        {% endif %}
+
+        <div class="option-group radios">
+            {% for option in props.options %}
+            <div class="option {{ 'large' if props.large }}">
+                <input type="radio" name="{{ props.name }}" id="{{ props.id if props.id else props.name }}-{{ loop.index }}" value="{{ option.value if option.value else option.text }}" {{ 'checked' if option.checked }}>
+                <label for="{{ props.id if props.id else props.name }}-{{ loop.index }}">{{ option.text }}</label>
+            </div>
+            {% if option.conditional %}
+                <div class="conditional" id="{{ props.id if props.id else props.name }}-{{ loop.index }}-conditional">
+                    {{ option.conditional | safe }}
+                </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        {% if props.postLink %}
+        <p>
+            <a href="{{ props.postLink.url }}">{{ props.postLink.text }}</a>
+        </p>
+        {% endif %}
+
+    </fieldset>
+{% endmacro %}

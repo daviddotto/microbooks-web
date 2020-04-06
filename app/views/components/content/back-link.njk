@@ -1,0 +1,11 @@
+{% from './icon.njk' import icon %}
+{% macro backLink(props) %}
+    <a href="{{ props.href | default('javascript:history.back()') }}" class="button back-button {{ 'disabled' if props.disabled }}">
+        {% if props.icon %}
+            {{ icon(props.icon) }}
+        {% else %}
+            ←
+        {% endif %}
+        {{ props.text | default('Back') }}
+    </a>
+{% endmacro %}

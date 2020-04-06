@@ -1,0 +1,23 @@
+{% macro input(props) %}
+    {% set error = props.errorData | errorFor(props.name) %}
+    {% set attributesString = '' %}{% for attr in props.attributes %}{% set attributesString = attributesString + (attr.key + '="' + attr.value + '" ') %}{% endfor %}
+    <div class="form-group {{ props.classes }} {{ 'error-group' if error }}">
+        <label for="{{ props.id | default(props.name) }}" class="{{ 'visually-hidden' if props.hideLabel }}"
+            >{{ props.label }}{% if props.isOptional %} <span class="optional-flag">(Optional)</span>{% endif %}</label
+        >
+        {% if props.hint %}
+            <p class="hint">{{ props.hint }}</p>
+        {% endif %}
+        {% if error %}
+            {% for item in error %}
+                <p class="error-label">{{ item.msg }}</p>
+            {% endfor%}
+        {% endif %}
+        {{ props.prefix }}<input type="{{ props.type | default('text') }}" name="{{ props.name }}" id="{{ props.id | default(props.name) }}" value="{{ error[0].value if error else props.value }}" {{ 'inputmode="numeric" pattern="[0-9]*"' | safe if props.type == 'number' else 'inputmode=' + props.type | safe }} {{ attributesString | safe }}/>{{ props.suffix }}
+        {% if props.postLink %}
+        <p>
+            <a href="{{ props.postLink.url }}">{{ props.postLink.text }}</a>
+        </p>
+        {% endif %}
+    </div>
+{% endmacro %}

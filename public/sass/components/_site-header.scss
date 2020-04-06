@@ -1,0 +1,137 @@
+@import 'variables';
+header#site-header {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: start;
+	align-items: stretch;
+	padding: $s_padding;
+	transition: background-color 200ms ease-out;
+	a {
+		display: block;
+		text-decoration: none;
+		color: currentColor;
+		&.header-item {
+			transition: background-color $a_transition-time;
+			margin-right: 1em;
+			&:last-child {
+				margin-right: 0;
+			}
+			&:hover,
+			&.active {
+				background-color: $c_card;
+			}
+			&[aria-controls='narrow-menu-container'] {
+				background-color: transparent;
+				&:hover {
+					background-color: transparent;
+				}
+				.close-icon {
+					display: none;
+				}
+				&.opened {
+					background-color: $c_card;
+					.close-icon {
+						display: inline-block;
+					}
+					.open-icon {
+						display: none;
+					}
+				}
+			}
+		}
+	}
+	.header-item {
+		padding: $s_padding;
+		border-radius: $s_border-radius;
+		.icon + span:not(.icon) {
+			margin-left: 0.25em;
+		}
+		span {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+	.spacer {
+		flex-grow: 1;
+	}
+	.logo-container {
+		svg {
+			height: 1.25em;
+		}
+	}
+	.scrolling & {
+		z-index: 99;
+		background-color: rgba(darken(#f5f5f5, 10%), 0.5);
+		backdrop-filter: blur(15px);
+		-webkit-backdrop-filter: blur(15px);
+		@media (prefers-color-scheme: dark) {
+			background-color: rgba(darken(#1f2123, 10%), 0.5);
+		}
+	}
+}
+
+.header-space-reserve {
+	display: block;
+	z-index: -1;
+	height: var(--headerHeight, 5em);
+}
+
+.narrow-menu-container {
+	position: fixed;
+	display: none;
+	opacity: 0;
+	&[aria-expanded='true'] {
+		display: block;
+		opacity: 1;
+		animation: fadeIn 200ms ease-out forwards;
+	}
+	margin-top: $s_padding;
+	left: $s_padding;
+	z-index: 99;
+	width: calc(100% - 2em);
+	max-height: calc(95vh - var(--headerHeight, 5em));
+	overflow-x: auto;
+	background-color: rgba(darken(#f5f5f5, 10%), 0.5);
+	backdrop-filter: blur(15px);
+	-webkit-backdrop-filter: blur(15px);
+	padding: $s_padding;
+	border-radius: $s_border-radius;
+	@media (prefers-color-scheme: dark) {
+		background-color: rgba(darken(#1f2123, 10%), 0.5);
+	}
+	nav.narrow-menu ul {
+		list-style: none;
+		padding: 0;
+		li a {
+			display: block;
+			color: currentColor;
+			text-decoration: none;
+			padding: $s_padding;
+			border-radius: $s_border-radius;
+			transition: background-color $a_transition-time;
+			&:hover {
+				background-color: $c_card;
+			}
+			.icon + span:not(.icon) {
+				margin-left: 0.25em;
+			}
+			span {
+				display: inline-block;
+				vertical-align: middle;
+			}
+		}
+		li.margin-top {
+			margin-top: $s_padding-medium;
+		}
+	}
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}

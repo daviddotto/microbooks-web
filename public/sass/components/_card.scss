@@ -1,0 +1,19 @@
+@import 'variables';
+.card {
+  position: relative;
+  margin-bottom: $s_padding-medium;
+  padding: $s_padding-medium;
+  border-radius: $s_border-radius;
+  overflow: hidden;
+  background-color: lighten($c_white, 2.5%);
+  box-shadow: 0 0 2em rgba(black, 0.1);
+  @media (prefers-color-scheme: dark) {
+    background-color: $c_card;
+  }
+  *:first-child {
+    margin-top: 0;
+  }
+  *:last-child {
+    margin-bottom: 0;
+  }
+}

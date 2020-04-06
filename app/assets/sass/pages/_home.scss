@@ -1,0 +1,24 @@
+body.home {
+	background-image: linear-gradient(rgba($c_white, 0.2), rgba($c_white, 0.6)),
+		url('/public/images/hero_bg.png');
+	@media (prefers-color-scheme: dark) {
+		background-image: linear-gradient(rgba($c_black, 0.2), rgba($c_black, 0.6)),
+			url('/public/images/hero_bg.png');
+	}
+	background-size: 100% auto;
+	background-position: 0 10em;
+	background-attachment: fixed;
+}
+
+.hero-button-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 2em;
+	> * {
+		margin-right: 1em;
+		&:last-child {
+			margin-right: 0;
+		}
+	}
+}

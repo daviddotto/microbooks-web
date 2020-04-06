@@ -1,0 +1,79 @@
+@import 'variables';
+
+button,
+a.button,
+input[type='submit'],
+input[type='reset'] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-size: 1em;
+  font-family: $f_primary;
+  border: 0;
+  box-shadow: none;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  color: $c_white;
+  padding: 0.85em $s_padding;
+  border-radius: $s_border-radius;
+  white-space: nowrap;
+  margin: sizeCalc(1);
+  margin-left: 0;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: filter 60ms ease-out;
+  position: relative;
+  background-color: lighten($c_focus, 20%);
+  @media (prefers-color-scheme: dark) {
+    background-color: $c_focus;
+  }
+  @media (max-width: $s_breakpoint--narrow) {
+    font-size: 1.25em;
+    &:not(.preserve-width) {
+      width: 100%;
+      text-align: center;
+    }
+  }
+  &:hover {
+    filter: brightness(0.8);
+  }
+}
+
+.apple-button {
+  margin-bottom: $s_padding;
+  .signin-button {
+    width: 12em;
+    height: 3em;
+    @media (max-width: $s_breakpoint--narrow) {
+      height: 3.8em;
+    }
+  }
+  svg {
+    max-height: 3em;
+    @media (max-width: $s_breakpoint--narrow) {
+      max-height: 3.8em;
+    }
+  }
+  svg rect {
+    display: none;
+  }
+  > div > div {
+    cursor: pointer;
+    background-color: $c_black;
+    border: $c_white 1px solid;
+    border-radius: $s_border-radius;
+    transition: background-color 60ms ease-out;
+    &:hover {
+      background-color: lighten($c_black, 10%);
+    }
+    > div {
+      display: flex;
+      align-items: center;
+      padding: 0.25em;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{% macro summaryList(props) %}
+    <dl class="summary-list">
+        {% for item in props.items %}
+            {% if item.key %}
+                <div class="summary-row">
+                    <dt class="summary-key">
+                        {{ item.key | safe }}
+                    </dt>
+                    {% if item.value %}
+                    <dd class="summary-value">
+                        {{ item.value }}
+                    </dd>
+                    {% endif %}
+                    {% if item.actions %}
+                    <dd class="summary-actions">
+                        {% for action in item.actions %}
+                            <a href="{{ action.href }}?fromCheck=true" class="summary-action">{{ action.text }}</a>
+                        {% endfor %} 
+                    </dd>
+                    {% endif %}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </dl>
+{% endmacro %}

@@ -1,0 +1,56 @@
+{% macro checkboxes(props) %}
+    {% set error = props.errorData | errorFor(props.name) %}
+    {% set attributesString = '' %}{% for attr in props.attributes %}{% set attributesString = attributesString + (attr.key + '="' + attr.value + '" ') %}{% endfor %}
+    <fieldset class="form-group {{ props.classes }}  {{ 'error-group' if error }}" id="{{ props.id if props.id else props.name }}--fieldset">
+    
+        <legend class="{{ 'visually-hidden' if props.hideLabel else props.labelClasses }}">{{ props.label }}{% if props.isOptional %} <span class="optional-flag">(Optional)</span>{% endif %}</legend>
+
+        {% if props.hint %}
+            <p class="hint">{{ props.hint }}</p>
+        {% endif %}
+        {% if error %}
+            {% for item in error %}
+            <p class="error-label">{{ item.msg }}</p>
+            {% endfor%}
+        {% endif %}
+
+        <div class="option-group checkboxes">
+            {% for option in props.options %}
+            <div class="option {{ 'large' if props.large }}">
+                <input type="checkbox" name="{{ props.name }}" id="{{ props.id if props.id else props.name }}-{{ loop.index }}" value="{{ option.value if option.value else option.text }}" {{ 'checked' if option.checked }}>
+                <label for="{{ props.id if props.id else props.name }}-{{ loop.index }}">{{ option.text }}</label>
+            </div>
+            {% endfor %}
+            {% if props.hasNoneOption %}
+            <p class="divider {{ 'large' if props.large }}">or</p>
+             <div class="option option--none  {{ 'large' if props.large }}">
+                <input type="checkbox" name="{{ props.name }}" id="{{ props.id if props.id else props.name }}--none" value="none">
+                <label for="{{ props.id if props.id else props.name }}--none">{{ props.noneLabel | default('None') }}</label>
+            </div>
+            {% endif %}
+        </div>
+
+        {% if props.postLink %}
+        <p>
+            <a href="{{ props.postLink.url }}">{{ props.postLink.text }}</a>
+        </p>
+        {% endif %}
+
+    </fieldset>
+    <script>
+    var $noneOptionGroup = $('#{{ (props.id if props.id else props.name) | replace("[", "\\\\[") | replace("]", "\\\\]") | safe }}--fieldset .option--none')
+    var $allOtherOptionGroups = $('#{{ (props.id if props.id else props.name) | replace("[", "\\\\[") | replace("]", "\\\\]") | safe }}--fieldset .option:not(.option--none)')
+
+    $noneOptionGroup.find('input').on('change', function() {
+        if ($(this).is(':checked')) {
+           $allOtherOptionGroups.find('input').prop('checked', false)
+        }
+    })
+
+    $allOtherOptionGroups.find('input').on('change', function() {
+        if ($(this).is(':checked')) {
+            $noneOptionGroup.find('input').prop('checked', false)
+        }
+    })
+    </script>
+{% endmacro %}

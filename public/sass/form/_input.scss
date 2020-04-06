@@ -1,0 +1,74 @@
+@import 'variables';
+
+input[type='text'],
+input[type='number'],
+input[type='email'],
+input[type='password'],
+input[type='search'],
+input[type='tel'],
+textarea {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  font-family: $f_primary;
+  font-size: $s_base-font--wide;
+  padding: $s_padding-small $s_padding;
+  border-radius: $s_border-radius-tiny;
+  box-shadow: none;
+  background-color: rgba(#FFF, 0.5);
+  @media (prefers-color-scheme: dark) {
+    background-color: rgba(#FFF, 0.05);
+  }
+  color: currentColor;
+  border: $c_card 1px solid;
+  width: 100%;
+  line-height: 1.5;
+  &.tiniest,
+  .tiniest & {
+    max-width: 4em;
+  }
+  &.tiny,
+  .tiny & {
+    max-width: 8em;
+  }
+  &.short,
+  .short & {
+    max-width: 16em;
+  }
+  &.medium,
+  .medium & {
+    max-width: 26em;
+  }
+  &.long,
+  .long & {
+    max-width: 40em;
+  }
+  .error-group & {
+    border-color: $c_red;
+  }
+  &:focus {
+    outline: none;
+    border-color: $c_focus;
+    box-shadow: 0 0 0 2px $c_focus;
+  }
+  &:disabled,
+  &[readonly] {
+    padding: sizeCalc(1) 0;
+    border: none;
+    &:focus {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+  .center-aligned & {
+    text-align: center;
+  }
+
+  .left-aligned & {
+    text-align: left;
+  }
+
+  .right-aligned & {
+    text-align: right;
+  }
+}

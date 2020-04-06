@@ -1,0 +1,63 @@
+h1.hero {
+	display: block;
+	font-size: 3em;
+	text-align: center;
+	margin: 1em auto;
+	font-weight: 700;
+	max-width: 12.5em;
+	letter-spacing: -0.03em;
+}
+
+p.hero {
+	display: block;
+	font-size: 1.5em;
+	text-align: center;
+	margin: 2em auto 2em auto;
+}
+
+.hero.left {
+	text-align: left;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.row.feature {
+	background-color: $c_white;
+	@media (prefers-color-scheme: dark) {
+		background-color: $c_black;
+	}
+	border-top: 1px $c_card solid;
+	&.feature-no-border {
+		border: none;
+	}
+	h2,
+	p {
+		max-width: 30rem;
+	}
+}
+
+.reverse .feature-summary {
+	h2,
+	p {
+		margin-left: auto;
+	}
+}
+
+.feature-tag {
+	color: teal;
+	border: 1.5px solid teal;
+	display: table;
+	margin: 0.75rem 0;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	font-size: 0.6rem;
+	padding: 0.25rem 0.5rem;
+	border-radius: 0.5rem;
+}
+
+.feature-summary {
+	font-size: 1.25em;
+}
+
+@import 'home';

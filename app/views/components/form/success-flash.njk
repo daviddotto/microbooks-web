@@ -1,0 +1,11 @@
+{% from '../content/icon.njk' import icon %}
+{% macro successFlash(props) %}
+    {% if props.content %}
+        <div class="flash success-flash">
+            <p>
+                {{ icon('success-tick') }}
+                {{ props.content }}
+            </p>
+        </div>
+    {% endif %}
+{% endmacro %}

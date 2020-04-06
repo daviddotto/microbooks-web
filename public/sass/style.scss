@@ -1,0 +1,78 @@
+@import 'variables';
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: $f_primary;
+	background-color: $c_white;
+	color: $c_black;
+	font-size: $s_base-font--wide;
+	@media (max-width: $s_breakpoint--narrow) {
+		font-size: $s_base-font--narrow;
+	}
+	@media (prefers-color-scheme: dark) {
+		background-color: $c_black;
+		color: $c_white;
+	}
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+::selection {
+	background: rgba($c_focus, 0.5);
+}
+
+::-moz-selection {
+	background: rgba($c_focus, 0.5);
+}
+
+main {
+	outline: none;
+}
+
+.visually-hidden {
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	overflow: hidden !important;
+	clip: rect(0 0 0 0) !important;
+	-webkit-clip-path: inset(50%) !important;
+	clip-path: inset(50%) !important;
+	border: 0 !important;
+	white-space: nowrap !important;
+}
+
+img {
+	max-width: 100%;
+}
+
+.show-light {
+	display: block;
+	@media (prefers-color-scheme: dark) {
+		display: none;
+	}
+}
+
+.show-dark {
+	display: none;
+	@media (prefers-color-scheme: dark) {
+		display: block;
+	}
+}
+
+@import 'typography';
+@import 'layout';
+@import 'components/icon';
+@import 'components/card';
+@import 'components/site-header';
+@import 'components/site-footer';
+@import 'form/form';
+@import 'pages/pages';

@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Sign in or create an account
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="column-two-thirds">
+            <h1>
+                What is your email address?
+            </h1>
+
+            <form action="post">
+                {{ input({
+                    name: '_email',
+                    label: 'Email address',
+                    hideLabel: 'true',
+                    classes: 'medium',
+                    type: 'email'
+                }) }}
+                {{ button() }}
+            </form>
+        </div>
+    </div>
+
+{% endblock %}
