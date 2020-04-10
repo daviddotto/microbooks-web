@@ -1,0 +1,49 @@
+
+{% set activeLink = "support" %}
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Send us a message
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <h1 class="hero left">Send us a message</h1>
+                <p class="hero left">Questions, queries or suggestions</p> 
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <form action="/support-handler" method="post">
+
+                    {{ input({
+                        name: '_email',
+                        type: 'email',
+                        label: 'Email address',
+                        classes: 'medium'
+                    }) }}
+
+                    {{ textarea({
+                        name: '_message',
+                        type: 'message',
+                        label: 'Message'
+                    }) }}
+
+                    {{ button({
+                        text: 'Send'
+                    }) }}
+
+                </form>
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}

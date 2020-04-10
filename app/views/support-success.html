@@ -1,0 +1,35 @@
+
+{% set activeLink = "support" %}
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Send us a message
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <h1 class="hero left">Thanks for your message</h1>
+                <p class="hero left">We’ll get back to you shortly</p> 
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+
+                    {{ button({
+                        text: 'Back to home page',
+                        href: '/'
+                    }) }}
+
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}
