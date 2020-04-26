@@ -63,6 +63,7 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 		console.log(`statusCode: ${response.statusCode}`)
 
 		response.on('data', (d) => {
+			console.log(`data: ${d}`)
 			res.send(d)
 		})
 	})
