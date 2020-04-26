@@ -48,6 +48,8 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 		'exclude-old-transactions': false,
 	})
 
+	console.log(`body: ${data}`)
+
 	const options = {
 		hostname: 'sandbox.itunes.apple.com',
 		port: 443,
