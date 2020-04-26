@@ -48,7 +48,7 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 		'exclude-old-transactions': false,
 	})
 
-	console.log(`body: ${req.body}`)
+	console.log(`body: ${JSON.stringify(req.body)}`)
 
 	const options = {
 		hostname: 'sandbox.itunes.apple.com',
