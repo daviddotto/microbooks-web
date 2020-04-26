@@ -1,0 +1,32 @@
+
+{% set activeLink = "ios" %}
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Microbooks for iPhone and iPad
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+               <form action="/verifyAppStoreReceipt" method="post">
+               
+                    {{ textarea({
+                        name: '_receipt-data',
+                        label: 'Receipt data'
+                    }) }}
+
+                    {{ button({
+                        text: 'Send'
+                    }) }}
+
+               </form>
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}
