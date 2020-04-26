@@ -62,11 +62,19 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 	}
 
 	const request = https.request(options, (response) => {
+		var body = ''
+
 		console.log(`statusCode: ${response.statusCode}`)
 
-		response.on('data', (d) => {
-			console.log(`data: ${d}`)
-			res.send(d)
+		response.on('data', (chunk) => {
+			body += chunk
+		})
+
+		response.on('end', function () {
+			var jsonResponse = JSON.parse(body)
+			res.setHeader('content-type', 'application/json')
+			console.log(`sending: ${JSON.stringify(jsonResponse)}`)
+			res.send(jsonResponse)
 		})
 	})
 
