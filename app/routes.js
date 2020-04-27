@@ -107,9 +107,14 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 
 		response.on('end', function () {
 			var jsonResponse = JSON.parse(body)
-			res.setHeader('content-type', 'application/json')
-			console.log(`sending: ${JSON.stringify(jsonResponse)}`)
-			res.send(jsonResponse)
+			if (jsonResponse['status'] == 21007) {
+				deferToSandboxVerification(res, req, data, options)
+				return
+			} else {
+				res.setHeader('content-type', 'application/json')
+				console.log(`sending: ${JSON.stringify(jsonResponse)}`)
+				res.send(jsonResponse)
+			}
 		})
 	})
 
