@@ -39,6 +39,42 @@ router.post('/support-handler', (req, res) => {
 
 // App store receipt verification
 
+const deferToSandboxVerification = (res, req, data, options) => {
+	const data = JSON.stringify({
+		'receipt-data': receiptData,
+		password: '0e8bfb00b7294888bf17671398922470',
+		'exclude-old-transactions': false,
+	})
+
+	console.log(`body: ${JSON.stringify(req.body)}`)
+
+	options.hostname = 'sandbox.itunes.apple.com'
+
+	const request = https.request(options, (response) => {
+		var body = ''
+
+		console.log(`statusCode: ${response.statusCode}`)
+
+		response.on('data', (chunk) => {
+			body += chunk
+		})
+
+		response.on('end', function () {
+			var jsonResponse = JSON.parse(body)
+			res.setHeader('content-type', 'application/json')
+			console.log(`sending: ${JSON.stringify(jsonResponse)}`)
+			res.send(jsonResponse)
+		})
+	})
+
+	request.on('error', (error) => {
+		console.error(error)
+	})
+
+	request.write(data)
+	request.end()
+}
+
 router.post('/verifyAppStoreReceipt', (req, res) => {
 	let receiptData = req.body['_receipt-data']
 
@@ -51,7 +87,7 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 	console.log(`body: ${JSON.stringify(req.body)}`)
 
 	const options = {
-		hostname: 'sandbox.itunes.apple.com',
+		hostname: 'buy.itunes.apple.com',
 		port: 443,
 		path: '/verifyReceipt',
 		method: 'POST',
@@ -65,6 +101,11 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 		var body = ''
 
 		console.log(`statusCode: ${response.statusCode}`)
+
+		if (response.statusCode == 21007) {
+			deferToSandboxVerification(res, req, data, options)
+			return
+		}
 
 		response.on('data', (chunk) => {
 			body += chunk
