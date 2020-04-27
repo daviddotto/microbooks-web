@@ -40,12 +40,6 @@ router.post('/support-handler', (req, res) => {
 // App store receipt verification
 
 const deferToSandboxVerification = (res, req, data, options) => {
-	const data = JSON.stringify({
-		'receipt-data': receiptData,
-		password: '0e8bfb00b7294888bf17671398922470',
-		'exclude-old-transactions': false,
-	})
-
 	console.log(`body: ${JSON.stringify(req.body)}`)
 
 	options.hostname = 'sandbox.itunes.apple.com'
