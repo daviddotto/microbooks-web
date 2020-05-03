@@ -1,0 +1,49 @@
+
+{% set activeLink = "privacy" %}
+
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+    Privacy policy
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <h1 class="hero left">Our terms of use</h1>
+                <p class="hero left">A few notes on using Microbooks</p> 
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <h2>Subscription terms</h2>
+                <p>If you decide to subscribe to paid-for features in Microbooks the following terms apply:</p>
+                <ul>
+                    <li>Payments with be charged to your iTunes Account at confirmation of purchase.</li>
+                    <li>Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.</li>
+                    <li>Account will be charged for renewal within 24-hours before the current period and identify the cost of the renewal.</li>
+                    <li>Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.</li>
+                    <li>Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable</li>
+                </ul>
+
+                <h2>ReceiptSense Privacy Policy</h2>
+                <p>ReceiptSense uses technology provided by Microsoft Azure Cognitive Services to detect data on receipts.</p>
+                <p>Receipt image data is sent using encryption to Microsoft Azure servers. The data is read from the image and is sent back to Microbooks securely.</p>
+                <p>Receipt data is deleted from Microsoft Azure servers immediately after analysis, it cannot and will not be accessed by our team.</p>
+                <p>More information about our privacy policies is available on our website at https://microbooks.app/privacy</p>
+
+                <h2>ReceiptSense Notes</h2>
+                <p>ReceiptSense uses deep-learning algorithms to detect data in receipts, these models have been designed to work best with receipts issued in the United States using the English language. We have also tested this model with receipts issued in the United Kingdom with good results.</p>
+                <p>ReceiptSense may not accurately detect all data from receipts depending on image clarity and the format of the data on the receipt. Any data that cannot be read will need to be entered manually.</p>
+                <p>To keep our pricing competitive for all businesses there is a fair usage policy each billing month. This number will reset when your monthly subscription renews. When the fair usage policy is reached you can continue to scan receipts but they will not be sent to our supplier for processing and transaction data will need to be entered manually.</p>
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}
