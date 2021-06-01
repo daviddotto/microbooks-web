@@ -10,7 +10,7 @@
 	"dependencies": {
 		"@babel/core": "^7.2.2",
 		"@babel/preset-env": "^7.2.0",
-		"airtable": "^0.7.2",
+		"airtable": "^0.11.1",
 		"ajv": "^6.12.0",
 		"ajv-keywords": "^3.4.1",
 		"ansi-colors": "^4.1.1",
@@ -19,7 +19,7 @@
 		"basic-auth": "^2.0.1",
 		"bcryptjs": "^2.4.3",
 		"body-parser": "^1.14.1",
-		"browser-sync": "^2.26.7",
+		"browser-sync": "^2.26.14",
 		"client-sessions": "^0.8.0",
 		"cookie-parser": "^1.4.3",
 		"cross-spawn": "^6.0.5",
@@ -55,7 +55,8 @@
 		"supertest": "^3.0.0",
 		"sync-request": "^6.0.0",
 		"universal-analytics": "^0.4.16",
-		"uuid": "latest"
+		"uuid": "latest",
+		"y18n": "^5.0.8"
 	},
 	"author": "North East Digital Ltd",
 	"license": "MIT"
