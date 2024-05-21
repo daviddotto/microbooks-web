@@ -2,13 +2,11 @@
 
 var docBody = document.querySelector('body');
 var narrowMenuToggleButtons = document.querySelectorAll('a[aria-controls="narrow-menu-container"]');
-
 var toggleNarrowMenu = function toggleNarrowMenu(e) {
   e.preventDefault();
   e.stopPropagation();
   var narrowMenuContainer = document.querySelector('#narrow-menu-container');
   var narrowMenuIsOpen = narrowMenuContainer.getAttribute('aria-expanded') === 'true';
-
   if (narrowMenuIsOpen) {
     narrowMenuToggleButtons.forEach(function (button) {
       return button.classList.remove('opened');
@@ -21,12 +19,10 @@ var toggleNarrowMenu = function toggleNarrowMenu(e) {
     narrowMenuContainer.setAttribute('aria-expanded', 'true');
   }
 };
-
 var setHeaderHeight = function setHeaderHeight() {
   var headerHeight = document.querySelector('header#site-header').offsetHeight;
   docBody.style.setProperty('--headerHeight', "".concat(headerHeight, "px"));
 };
-
 var setPageScrollingStatus = function setPageScrollingStatus() {
   if (window.scrollY > 1) {
     document.body.classList.add('scrolling');
@@ -34,7 +30,6 @@ var setPageScrollingStatus = function setPageScrollingStatus() {
     document.body.classList.remove('scrolling');
   }
 };
-
 setHeaderHeight();
 setPageScrollingStatus();
 window.addEventListener('resize', setHeaderHeight);
@@ -50,12 +45,12 @@ $('body').on('submit', 'form', function () {
   // they've been unchecked. This means we can automatically store and update
   // all form data on the server, including checkboxes that are checked, then
   // later unchecked
+
   var $checkboxes = $(this).find('input:checkbox');
   var $inputs = [];
   var names = {};
   $checkboxes.each(function () {
     var $this = $(this);
-
     if (!names[$this.attr('name')]) {
       names[$this.attr('name')] = true;
       var $input = $('<input type="hidden">');
