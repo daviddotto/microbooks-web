@@ -1,17 +1,20 @@
 @import 'variables';
 
 .form-group {
-  margin-bottom: $s_padding-large;
-  label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: $s_padding-small;
-  }
-  p, span {
-    margin-top: 0;
-    margin-bottom: $s_padding-small;
-  }
+	margin-bottom: $s_padding-large;
+	label,
+	legend {
+		display: block;
+		font-weight: bold;
+		margin-bottom: $s_padding-small;
+	}
+	p,
+	span {
+		margin-top: 0;
+		margin-bottom: $s_padding-small;
+	}
 }
 
 @import 'input';
 @import 'button';
+@import 'radios';

@@ -126,4 +126,12 @@ router.post('/verifyAppStoreReceipt', (req, res) => {
 	request.end()
 })
 
+const vvInsiderRoutes = require('./views/vvinsider/routes')
+router.use('/vvinsider', vvInsiderRoutes)
+
+// expose ./public/speech.mp3
+router.get('/speech.mp3', (req, res) => {
+	res.sendFile('speech.mp3', { root: './public' })
+})
+
 module.exports = router

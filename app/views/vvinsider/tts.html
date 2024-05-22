@@ -1,0 +1,94 @@
+
+{% set activeLink = "support" %}
+
+{% extends "layout.html" %}
+
+{% set voice = data['voice'] if data['voice'] else 'alloy' %}
+
+{% block pageTitle %}
+    VV Insider TTS Generator
+{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <h1 class="hero left">VV Insider TTS Generator</h1>
+                <p class="hero left">Make audio files for social channels</p> 
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="width-container">
+            <div class="column-two-thirds">
+                <form action="/vvinsider/tts" method="post">
+
+                    {{ textarea({
+                        name: 'message',
+                        type: 'message',
+                        label: 'Text to convert to speech',
+                        value: data['message']
+                    }) }}
+
+                    {{ radios({
+                        name: 'voice',
+                        label: 'Voice',
+                        options: [
+                            {
+                                text: 'Alloy (Andro Casual - US)',
+                                value: 'alloy',
+                                checked: true if data['voice'] == 'alloy' else false
+                            },
+                            {
+                                text: 'Echo (Masc Direct - US)',
+                                value: 'echo',
+                                checked: true if data['voice'] == 'echo' else false
+                            },
+                            {
+                                text: 'Fable (Masc Direct - UK)',
+                                value: 'fable',
+                                checked: true if data['voice'] == 'fable' else false
+                            },
+                            {
+                                text: 'Onyx (Masc Serious - US)',
+                                value: 'onyx',
+                                checked: true if data['voice'] == 'onyx' else false
+                            },
+                            {
+                                text: 'Nova (Fem Serious - US)',
+                                value: 'nova',
+                                checked: true if data['voice'] == 'nova' else false
+                            },
+                            {
+                                text: 'Shimmer (Fem Direct - US)',
+                                value: 'shimmer',
+                                checked: true if data['voice'] == 'shimmer' else false
+                            }
+                        ]
+                    }) }}
+
+                    {{ button({
+                        text: 'Update audio file'
+                    }) }}
+
+                </form>
+            </div>
+            <div class="column-one-third">
+                <audio src="/speech.mp3" controls></audio>
+                    <br>
+                    {{ button({
+                        text: 'Download file',
+                        classes: 'app-download-button',
+                        href: '/speech.mp3',
+                        attributes: {
+                            download: ''
+                        }
+                    }) }}
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}

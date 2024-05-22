@@ -1,0 +1,23 @@
+fieldset.form-group {
+	padding: 0;
+	border: none;
+}
+
+.option-group.radios {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+
+	.option {
+		display: grid;
+		grid-template-columns: 1rem auto;
+		align-items: center;
+		gap: 0.25rem;
+
+		label {
+			font-weight: normal;
+			text-align: left;
+			margin: 0;
+		}
+	}
+}
