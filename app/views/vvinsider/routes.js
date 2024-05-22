@@ -10,7 +10,12 @@ const openai = new OpenAI()
 const speechFile = path.resolve('./public/speech.mp3')
 
 router.post('/tts', async (req, res) => {
-	const { message, voice } = req.body
+	const { message, voice, _passkey } = req.body
+	// Check if the passkey is valid
+	if (_passkey !== 'Morty2017!') {
+		res.send({ success: false, error: 'Invalid passkey' })
+		return
+	}
 	if (!message) {
 		res.send({ success: false, error: 'No message provided' })
 		return

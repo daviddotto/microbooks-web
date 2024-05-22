@@ -39,34 +39,40 @@
                             {
                                 text: 'Alloy (Andro Casual - US)',
                                 value: 'alloy',
-                                checked: true if data['voice'] == 'alloy' else false
+                                checked: true if voice == 'alloy' else false
                             },
                             {
                                 text: 'Echo (Masc Direct - US)',
                                 value: 'echo',
-                                checked: true if data['voice'] == 'echo' else false
+                                checked: true if voice == 'echo' else false
                             },
                             {
                                 text: 'Fable (Masc Direct - UK)',
                                 value: 'fable',
-                                checked: true if data['voice'] == 'fable' else false
+                                checked: true if voice == 'fable' else false
                             },
                             {
                                 text: 'Onyx (Masc Serious - US)',
                                 value: 'onyx',
-                                checked: true if data['voice'] == 'onyx' else false
+                                checked: true if voice == 'onyx' else false
                             },
                             {
                                 text: 'Nova (Fem Serious - US)',
                                 value: 'nova',
-                                checked: true if data['voice'] == 'nova' else false
+                                checked: true if voice == 'nova' else false
                             },
                             {
                                 text: 'Shimmer (Fem Direct - US)',
                                 value: 'shimmer',
-                                checked: true if data['voice'] == 'shimmer' else false
+                                checked: true if voice == 'shimmer' else false
                             }
                         ]
+                    }) }}
+
+                    {{ input({
+                        name: '_passkey',
+                        type: 'password',
+                        label: 'Passkey'
                     }) }}
 
                     {{ button({
