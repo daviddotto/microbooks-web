@@ -138,5 +138,9 @@ router.use('/vvinsider', vvInsiderRoutes)
 router.get('/speech.mp3', (req, res) => {
 	res.sendFile('speech.mp3', { root: './public' })
 })
+// expose ./public/itineraries.json
+router.get('/itineraries.json', (req, res) => {
+	res.sendFile('itineraries.json', { root: './public' })
+})
 
 module.exports = router
