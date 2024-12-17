@@ -36,7 +36,6 @@ let useHttps = config.useHttps
 useHttps = useHttps.toLowerCase()
 
 // Force HTTPS on production.
-// asking for username/password twice (for `http`, then `https`).
 const isSecure = env === 'production' && useHttps === 'true'
 if (isSecure) {
 	app.use(utils.forceHttps)
@@ -83,10 +82,7 @@ app.use(
 )
 
 // Add global variable to determine if DoNotTrack is enabled.
-// This indicates a user has explicitly opted-out of tracking.
-// We can avoid injecting third-party scripts that do not respect this decision.
 app.use(function (req, res, next) {
-	// See https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT
 	res.locals.doNotTrackEnabled = req.header('DNT') === '1'
 	next()
 })
@@ -97,7 +93,6 @@ app.locals.useAutoStoreData = useAutoStoreData === 'true'
 app.locals.useCookieSessionStore = useCookieSessionStore === 'true'
 app.locals.cookieText = config.cookieText
 app.locals.serviceName = config.serviceName
-// extensionConfig sets up variables used to add the scripts and stylesheets to each page.
 app.locals.extensionConfig = extensions.getAppConfig()
 
 // Session uses service name to avoid clashes with other prototypes
@@ -141,13 +136,11 @@ if (useAutoStoreData === 'true') {
 
 // Prevent search indexing
 app.use(function (req, res, next) {
-	// Setting headers stops pages from being indexed even if indexed pages link to them.
 	next()
 })
 
 // Load routes (found in app/routes.js)
 if (typeof routes !== 'function') {
-	console.log(routes.bind)
 	routes.bind(app)
 } else {
 	app.use('/', routes)
@@ -163,8 +156,6 @@ app.get(/\.html?$/i, function (req, res) {
 })
 
 // Auto render any view that exists
-
-// App folder routes get priority
 app.get(/^([^.]+)$/, function (req, res, next) {
 	utils.matchRoutes(req, res, next)
 })
@@ -182,10 +173,15 @@ app.use(function (req, res, next) {
 })
 
 // Display error
-app.use(function (err, req, res) {
+app.use(function (err, req, res, next) {
 	console.error(err.message)
 	res.status(err.status || 500)
 	res.send(err.message)
+})
+
+const port = process.env.PORT || 3000
+app.listen(port, () => {
+	console.log(`Server is running on port ${port}`)
 })
 
 module.exports = app

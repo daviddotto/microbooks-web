@@ -2,9 +2,14 @@ const express = require('express')
 const router = express.Router(null)
 var Airtable = require('airtable')
 const https = require('https')
-var base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(
-	'appOl2BBiMCdby3zB'
-)
+Airtable.configure({
+	endpointUrl: 'https://api.airtable.com',
+	apiKey: process.env.AIRTABLE_API_TOKEN_MICROBOOKS,
+})
+var base = Airtable.base('appOl2BBiMCdby3zB')
+
+const vvInsiderApiRouter = require('./api/vvinsider')
+router.use('/api/vvinsider', vvInsiderApiRouter)
 
 router.all('*', (req, res, next) => {
 	req.session.data.loggedIn = req.user !== false && req.user !== undefined

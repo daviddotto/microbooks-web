@@ -1,0 +1,5166 @@
+[
+  {
+    "name": "Atlantis Private Charter - Thanksgiving Caribbean Escape",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-11-25",
+    "nights": 5,
+    "shipCode": "RS",
+    "id": "RS241125",
+    "urls": {
+      "group": "https://www.facebook.com/groups/atlantisvirginthanksgivingcruise",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=RS241125"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-11-27",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2411274NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3587334641501917/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2411274NKW"
+    }
+  },
+  {
+    "name": "Transatlantic - From Rome to Miami",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2024-11-28",
+    "nights": 16,
+    "shipCode": "SC",
+    "id": "SC241128",
+    "urls": {
+      "group": "https://www.facebook.com/groups/romemiami/",
+      "store": "https://vvinsider.store/collection/transatlantic-rome-to-miami-2024?currency=USD",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=SC241128"
+    }
+  },
+  {
+    "name": "Miami to San Juan - One Way San Juan Sojourn",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-11-30",
+    "nights": 6,
+    "shipCode": "RS",
+    "id": "RS241130",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1627049478037946",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=RS241130"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-01",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2412015NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/846152284196238",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2412015NCZ"
+    }
+  },
+  {
+    "name": "Pre-Holiday Caribbean Refresh",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-12-06",
+    "nights": 8,
+    "shipCode": "RS",
+    "id": "RS241206",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1445839186285986",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=RS241206"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-06",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2412065NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2613949475448430/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2412065NPP"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-11",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2412114NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/951960189235656/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2412114NKW"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2024-12-14",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2412148NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/965858404518274",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2412148NCP"
+    }
+  },
+  {
+    "name": "Saint (Isles) & Seas of the Caribbean",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-12-14",
+    "nights": 7,
+    "itinerary": "rechXMkVxkdql3qX8",
+    "shipCode": "RS",
+    "id": "RS2412147NRT",
+    "fetchedPackageCode": "7NRT",
+    "packageCode": "7NRT",
+    "urls": {
+      "group": "https://facebook.com/groups/710854144558426/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRT&voyageId=RS2412147NRT"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-15",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2412155NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1571709070230973/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2412155NPP"
+    }
+  },
+  {
+    "name": "Valiant Caribbean Holidays 2024",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-20",
+    "nights": 6,
+    "shipCode": "VL",
+    "id": "VL241220",
+    "urls": {
+      "group": "https://www.facebook.com/share/CKJBS7D1a7j14hWA/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL241220"
+    }
+  },
+  {
+    "name": "Resilient Caribbean Holidays",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-12-21",
+    "nights": 7,
+    "itinerary": "rec9MhpEeOWYw3ml8",
+    "shipCode": "RS",
+    "id": "RS2412217NSJHD",
+    "fetchedPackageCode": "7NSJHD",
+    "packageCode": "7NSJHD",
+    "urls": {
+      "group": "https://www.facebook.com/groups/723990516469813/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJHD&voyageId=RS2412217NSJHD"
+    }
+  },
+  {
+    "name": "Scarlet Caribbean Holidays 2024 - Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2024-12-22",
+    "nights": 6,
+    "itinerary": "rec6apSSs1hnqgWEt",
+    "shipCode": "SC",
+    "id": "SC2412224NCH",
+    "fetchedPackageCode": "4NCH",
+    "packageCode": "4NCH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/674799571378992",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NCH&voyageId=SC2412224NCH"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-26",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2412264NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/7453026468117032",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2412264NKW"
+    }
+  },
+  {
+    "name": "Scarlet Lady New Year's Ahoy",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2024-12-28",
+    "nights": 8,
+    "itinerary": "recVWPHpc06raYC12",
+    "shipCode": "SC",
+    "id": "SC2412288NNYS",
+    "fetchedPackageCode": "8NNYS",
+    "packageCode": "8NNYS",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1367931574135484/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NNYS&voyageId=SC2412288NNYS"
+    }
+  },
+  {
+    "name": "Resilient New Year’s Ahoy",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2024-12-28",
+    "nights": 7,
+    "itinerary": "recRk5c1aUuVv63LY",
+    "shipCode": "RS",
+    "id": "RS2412287NRNYA",
+    "fetchedPackageCode": "7NRNYA",
+    "packageCode": "7NRNYA",
+    "urls": {
+      "group": "https://facebook.com/groups/1403062420330952/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRNYA&voyageId=RS2412287NRNYA"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2024-12-30",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2412304NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1554353598438698/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2412304NKW"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-03",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2501035NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/894504506019472",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2501035NPP"
+    }
+  },
+  {
+    "name": "Sunsets in the Lesser Antilles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-01-04",
+    "nights": 7,
+    "itinerary": "recFNwzkjDlwL2Z7W",
+    "shipCode": "RS",
+    "id": "RS2501047NSE",
+    "fetchedPackageCode": "7NSE",
+    "packageCode": "7NSE",
+    "urls": {
+      "group": "https://www.facebook.com/groups/5889539387838910/",
+      "store": "https://vvinsider.store/collection/sunsets-in-the-lesser-antilles",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSE&voyageId=RS2501047NSE"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-01-05",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2501056NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1005252174513673",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2501056NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-08",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2501084NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1332896784069080",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2501084NKW"
+    }
+  },
+  {
+    "name": "San Juan, St. Vincent, Barbados & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-01-11",
+    "nights": 10,
+    "itinerary": "recQvJjFtqYk9jQyC",
+    "shipCode": "RS",
+    "id": "RS25011110NSJ1",
+    "fetchedPackageCode": "10NSJ1",
+    "packageCode": "10NSJ1",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1371509263369014",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NSJ1&voyageId=RS25011110NSJ1"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-01-11",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2501118NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1318909879472539/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2501118NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-12",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2501125NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1102964430746572",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2501125NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-17",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2501175NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/878592504058660/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2501175NPP"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-01-19",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2501196NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1067064038259979",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2501196NRM"
+    }
+  },
+  {
+    "name": "Idyllic Caribbean Isles & Colombia",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-01-21",
+    "nights": 11,
+    "itinerary": "recgp99lBkIq4cNiJ",
+    "shipCode": "RS",
+    "id": "RS25012111NSJC",
+    "fetchedPackageCode": "11NSJC",
+    "packageCode": "11NSJC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/7170601293027716/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NSJC&voyageId=RS25012111NSJC"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-22",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2501224NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/valiantladyjan22262025/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2501224NKW"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-01-25",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2501258NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/4484747421750492",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2501258NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-26",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2501265NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3602839003378030/",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2501265NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-01-31",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2501315NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/6599258643528185/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2501315NPP"
+    }
+  },
+  {
+    "name": "Sunsets in the Lesser Antilles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-02-01",
+    "nights": 7,
+    "itinerary": "recFNwzkjDlwL2Z7W",
+    "shipCode": "RS",
+    "id": "RS2502017NSE",
+    "fetchedPackageCode": "7NSE",
+    "packageCode": "7NSE",
+    "urls": {
+      "group": "https://www.facebook.com/groups/942653057039709/",
+      "store": "https://vvinsider.store/collection/sunsets-in-the-lesser-antilles",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSE&voyageId=RS2502017NSE"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-02-02",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2502026NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/527438566634261",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2502026NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-05",
+    "nights": 4,
+    "shipCode": "VL",
+    "id": "VL250205",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1355617035099804",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL250205"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-02-08",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2502088NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1810888729360678/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2502088NCP"
+    }
+  },
+  {
+    "name": "Resilient Valentine's Voyage - Saint (Isles) & Seas of the Caribbean",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-02-08",
+    "nights": 7,
+    "itinerary": "rec6JpdyW9BmUFcsO",
+    "shipCode": "RS",
+    "id": "RS2502087NRTV",
+    "fetchedPackageCode": "7NRTV",
+    "packageCode": "7NRTV",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1237664270366454/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRTV&voyageId=RS2502087NRTV"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-09",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2502095NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/428861736384352",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2502095NCZ"
+    }
+  },
+  {
+    "name": "Valiant Valentine's Voyage - Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-14",
+    "nights": 5,
+    "itinerary": "recEvsPf5VUBNhjgH",
+    "shipCode": "VL",
+    "id": "VL2502145NPPV",
+    "fetchedPackageCode": "5NPPV",
+    "packageCode": "5NPPV",
+    "urls": {
+      "group": "https://www.facebook.com/groups/777608763870816",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPPV&voyageId=VL2502145NPPV"
+    }
+  },
+  {
+    "name": "Sunsets in the Lesser Antilles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-02-15",
+    "nights": 7,
+    "itinerary": "recFNwzkjDlwL2Z7W",
+    "shipCode": "RS",
+    "id": "RS2502157NSE",
+    "fetchedPackageCode": "7NSE",
+    "packageCode": "7NSE",
+    "urls": {
+      "group": "https://www.facebook.com/groups/resilientlady.02.15.2025/",
+      "store": "https://vvinsider.store/collection/sunsets-in-the-lesser-antilles",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSE&voyageId=RS2502157NSE"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-02-16",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2502166NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/945834486647093/",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2502166NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-19",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2502194NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1465820367616073",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2502194NKW"
+    }
+  },
+  {
+    "name": "Saint (Isles) & Seas of the Caribbean - Atlantis Charter",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-02-22",
+    "nights": 7,
+    "shipCode": "RS",
+    "id": "RS250222",
+    "urls": {
+      "group": "https://www.facebook.com/groups/667356137824915/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=RS250222"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-02-22",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2502228NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/361478403572035",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2502228NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-23",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2502235NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/310189322082212",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2502235NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-02-28",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2502285NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/731357662311444/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2502285NPP"
+    }
+  },
+  {
+    "name": "San Juan, Barbados & Beyond",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-03-01",
+    "nights": 7,
+    "itinerary": "recwGJhzf7nXtrnaS",
+    "shipCode": "RS",
+    "id": "RS2503017NSJ2",
+    "fetchedPackageCode": "7NSJ2",
+    "packageCode": "7NSJ2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1970131160102118/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ2&voyageId=RS2503017NSJ2"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-03-02",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2503026NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1193381258575569",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2503026NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-05",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2503054NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/777678174424384",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2503054NKW"
+    }
+  },
+  {
+    "name": "Saint (Isles) & Seas of the Caribbean",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-03-08",
+    "nights": 7,
+    "itinerary": "rechXMkVxkdql3qX8",
+    "shipCode": "RS",
+    "id": "RS2503087NRT",
+    "fetchedPackageCode": "7NRT",
+    "packageCode": "7NRT",
+    "urls": {
+      "group": "https://www.facebook.com/groups/349681158057711/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRT&voyageId=RS2503087NRT"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-03-08",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2503088NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/695754778652073",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2503088NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-09",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2503095NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1843793999427846",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2503095NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-14",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2503145NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1472174273394912",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2503145NPP"
+    }
+  },
+  {
+    "name": "Sunsets in the Lesser Antilles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-03-15",
+    "nights": 7,
+    "itinerary": "recFNwzkjDlwL2Z7W",
+    "shipCode": "RS",
+    "id": "RS2503157NSE",
+    "fetchedPackageCode": "7NSE",
+    "packageCode": "7NSE",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1056743512289487",
+      "store": "https://vvinsider.store/collection/sunsets-in-the-lesser-antilles",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSE&voyageId=RS2503157NSE"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-03-16",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2503166NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/289965397428229",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2503166NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-19",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2503194NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1140130050763248/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2503194NKW"
+    }
+  },
+  {
+    "name": "Puerto Rican Daze & Caribbean Nights",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-03-22",
+    "nights": 10,
+    "itinerary": "recTXGqR2e5xtUC0P",
+    "shipCode": "RS",
+    "id": "RS25032210NSJ2",
+    "fetchedPackageCode": "10NSJ2",
+    "packageCode": "10NSJ2",
+    "urls": {
+      "group": "https://facebook.com/groups/2112025712501561/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NSJ2&voyageId=RS25032210NSJ2"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-03-22",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2503228NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/6785320941571882/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2503228NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-23",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2503235NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/928394391999344",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2503235NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-03-28",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2503285NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/932768888568404",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2503285NPP"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-03-30",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2503306NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://m.facebook.com/groups/891700119040415/?ref=sharehttps://m.facebook.com/groups/891700119040415/",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2503306NRM"
+    }
+  },
+  {
+    "name": "Colombia & Caribbean Nights",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-04-01",
+    "nights": 11,
+    "itinerary": "recbdtwjG2CmW8I02",
+    "shipCode": "RS",
+    "id": "RS25040111NSJR",
+    "fetchedPackageCode": "11NSJR",
+    "packageCode": "11NSJR",
+    "urls": {
+      "group": "https://facebook.com/groups/1076290743596875/",
+      "store": "https://vvinsider.store/collection/san-juan-voyages",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NSJR&voyageId=RS25040111NSJR"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-02",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2504024NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2789892514650776/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2504024NKW"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-04-05",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2504058NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/613711840924842/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2504058NCP"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-06",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2504065NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/882512370456989/",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2504065NCZ"
+    }
+  },
+  {
+    "name": "Sunny Daze in Puerto Plata & Nassau",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-11",
+    "nights": 5,
+    "itinerary": "recIcXP094byiMT6S",
+    "shipCode": "VL",
+    "id": "VL2504115NPN",
+    "fetchedPackageCode": "5NPN",
+    "packageCode": "5NPN",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1468585994073289/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPN&voyageId=VL2504115NPN"
+    }
+  },
+  {
+    "name": "Transatlantic - San Juan to Barcelona (Spanish Island Nights)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-04-12",
+    "nights": 14,
+    "itinerary": "recc7NJu3YoEroRam",
+    "shipCode": "RS",
+    "id": "RS25041214NSJB",
+    "fetchedPackageCode": "14NSJB",
+    "packageCode": "14NSJB",
+    "urls": {
+      "group": "https://www.facebook.com/groups/416017424249699",
+      "store": "https://vvinsider.store/collection/transatlantic-san-juan-to-spanish-island-nights",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=14NSJB&voyageId=RS25041214NSJB"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-04-13",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2504136NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1067555424488793",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2504136NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-16",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2504164NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1535149850678737/",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2504164NKW"
+    }
+  },
+  {
+    "name": "Eastern Caribbean Antillies",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-04-19",
+    "nights": 8,
+    "itinerary": "rech2k7y35rpZwb2C",
+    "shipCode": "SC",
+    "id": "SC2504198NCP",
+    "fetchedPackageCode": "8NCP",
+    "packageCode": "8NCP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/384587380589122/",
+      "store": "https://vvinsider.store/collection/eastern-caribbean-antilles/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NCP&voyageId=SC2504198NCP"
+    }
+  },
+  {
+    "name": "Elevate Voyage - Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-20",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2504205NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/elevatevoyage2025/",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2504205NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-25",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2504255NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1594790011438400",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2504255NPP"
+    }
+  },
+  {
+    "name": "Barcelona to France, Italy & Greece",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-04-26",
+    "nights": 8,
+    "itinerary": "recQOBfQT2spV6FQc",
+    "shipCode": "RS",
+    "id": "RS2504268NBA",
+    "fetchedPackageCode": "8NBA",
+    "packageCode": "8NBA",
+    "urls": {
+      "group": "https://www.facebook.com/groups/420514330343853/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NBA&voyageId=RS2504268NBA"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-04-27",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "SC",
+    "id": "SC2504276NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/374854355348767/",
+      "store": "https://vvinsider.store/collection/western-caribbean-charm/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=SC2504276NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-04-30",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2504304NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2504304NKW"
+    }
+  },
+  {
+    "name": "Miami to Casablanca & Barcelona",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-05-03",
+    "nights": 15,
+    "itinerary": "reclc3HA8OMdFONYW",
+    "shipCode": "SC",
+    "id": "SC25050315NMB2",
+    "fetchedPackageCode": "15NMB2",
+    "packageCode": "15NMB2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/372203568700076",
+      "store": "https://vvinsider.store/collection/transatlantic-miami-to-barcelona",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=15NMB2&voyageId=SC25050315NMB2"
+    }
+  },
+  {
+    "name": "Dubrovnik Days & Mykonos Nights",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-05-04",
+    "nights": 7,
+    "itinerary": "recE07V7UkvR6kZLe",
+    "shipCode": "RS",
+    "id": "RS2505047NGA3",
+    "fetchedPackageCode": "7NGA3",
+    "packageCode": "7NGA3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1900992217084708/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGA3&voyageId=RS2505047NGA3"
+    }
+  },
+  {
+    "name": "Celebration Voyage - Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-04",
+    "nights": 5,
+    "itinerary": "recKKoqm8EsUTDeZe",
+    "shipCode": "VL",
+    "id": "VL2505045NCZC",
+    "fetchedPackageCode": "5NCZC",
+    "packageCode": "5NCZC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1139229481056914",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZC&voyageId=VL2505045NCZC"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-09",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2505095NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1140314563763341/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2505095NPP"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-05-11",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2505117NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1087229419247546/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2505117NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-14",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2505144NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2505144NKW"
+    }
+  },
+  {
+    "name": "Istanbul, Santorini & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-05-18",
+    "nights": 11,
+    "itinerary": "rec8FQU7ySANop2bK",
+    "shipCode": "RS",
+    "id": "RS25051811NAI",
+    "fetchedPackageCode": "11NAI",
+    "packageCode": "11NAI",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1457470382322010",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NAI&voyageId=RS25051811NAI"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-18",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "VL",
+    "id": "VL2505185NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "store": "https://vvinsider.store/collection/mayan-sol/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=VL2505185NCM"
+    }
+  },
+  {
+    "name": "Barcelona to Palma, Ibiza & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-05-18",
+    "nights": 7,
+    "itinerary": "recfU42NJI4BdMs3b",
+    "shipCode": "SC",
+    "id": "SC2505187NMC4",
+    "fetchedPackageCode": "7NMC4",
+    "packageCode": "7NMC4",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1197480371659294",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NMC4&voyageId=SC2505187NMC4"
+    }
+  },
+  {
+    "name": "Private Charter",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-23",
+    "nights": 5,
+    "shipCode": "VL",
+    "id": "VL250523",
+    "urls": {
+      "group": "https://www.facebook.com/groups/961517765381382/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL250523"
+    }
+  },
+  {
+    "name": "Barcelona to Rome & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-05-25",
+    "nights": 7,
+    "itinerary": "recKf9roHf0dAPR7B",
+    "shipCode": "SC",
+    "id": "SC2505257NMA3",
+    "fetchedPackageCode": "7NMA3",
+    "packageCode": "7NMA3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1016035283068612/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NMA3&voyageId=SC2505257NMA3"
+    }
+  },
+  {
+    "name": "Private Charter",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-05-28",
+    "nights": 4,
+    "shipCode": "VL",
+    "id": "VL250528",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL250528"
+    }
+  },
+  {
+    "name": "Starry Nights in Greece & Croatia",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-05-29",
+    "nights": 10,
+    "itinerary": "recmsxcWNd4zbGwk8",
+    "shipCode": "RS",
+    "id": "RS25052910NATH",
+    "fetchedPackageCode": "10NATH",
+    "packageCode": "10NATH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/704642978520934/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NATH&voyageId=RS25052910NATH"
+    }
+  },
+  {
+    "name": "Barcelona, Palma, Rome & (Many) More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-06-01",
+    "nights": 11,
+    "itinerary": "recAb0F62TPlgSULX",
+    "shipCode": "SC",
+    "id": "SC25060111NCR",
+    "fetchedPackageCode": "11NCR",
+    "packageCode": "11NCR",
+    "urls": {
+      "group": "https://www.facebook.com/groups/276560768848400/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NCR&voyageId=SC25060111NCR"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-01",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2506015NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1337147307665558",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2506015NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-06",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2506065NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2506065NPP"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-06-08",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2506087NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3651794751760643/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2506087NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-11",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2506114NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2506114NKW"
+    }
+  },
+  {
+    "name": "Southern Spain & Casablanca",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-06-12",
+    "nights": 10,
+    "itinerary": "recaksKQMrzxdADIX",
+    "shipCode": "SC",
+    "id": "SC25061210NCV",
+    "fetchedPackageCode": "10NCV",
+    "packageCode": "10NCV",
+    "urls": {
+      "group": "https://www.facebook.com/groups/296334706247954/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NCV&voyageId=SC25061210NCV"
+    }
+  },
+  {
+    "name": "Corfu, Dubrovnik & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-06-15",
+    "nights": 7,
+    "itinerary": "reckyDO6gr2REZCmn",
+    "shipCode": "RS",
+    "id": "RS2506157NGA4",
+    "fetchedPackageCode": "7NGA4",
+    "packageCode": "7NGA4",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1028867815357546",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGA4&voyageId=RS2506157NGA4"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-15",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "VL",
+    "id": "VL2506155NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "store": "https://vvinsider.store/collection/mayan-sol/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=VL2506155NCM"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-20",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2506205NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/917206330185985",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2506205NPP"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-06-22",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2506227NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/793515932810629",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2506227NGM2"
+    }
+  },
+  {
+    "name": "Barcelona to Cannes, Rome & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-06-22",
+    "nights": 7,
+    "itinerary": "rece0SVG5rHorhf2t",
+    "shipCode": "SC",
+    "id": "SC2506227NMA4",
+    "fetchedPackageCode": "7NMA4",
+    "packageCode": "7NMA4",
+    "urls": {
+      "group": "https://www.facebook.com/groups/320050090564072",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NMA4&voyageId=SC2506227NMA4"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-25",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2506254NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/919952196766325",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2506254NKW"
+    }
+  },
+  {
+    "name": "Istanbul, Santorini & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-06-29",
+    "nights": 11,
+    "itinerary": "rec8FQU7ySANop2bK",
+    "shipCode": "RS",
+    "id": "RS25062911NAI",
+    "fetchedPackageCode": "11NAI",
+    "packageCode": "11NAI",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1013940586955733",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NAI&voyageId=RS25062911NAI"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-06-29",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2506295NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1131863918603140",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2506295NCZ"
+    }
+  },
+  {
+    "name": "Florence, Rome, Palma & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-06-29",
+    "nights": 7,
+    "itinerary": "recgPgpBavfktMp2b",
+    "shipCode": "SC",
+    "id": "SC2506297NBC",
+    "fetchedPackageCode": "7NBC",
+    "packageCode": "7NBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1835852316845429/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NBC&voyageId=SC2506297NBC"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-07-04",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2507045NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://facebook.com/groups/953732556351612/",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2507045NPP"
+    }
+  },
+  {
+    "name": "Spanish & Italian Hot Spots",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-07-06",
+    "nights": 7,
+    "itinerary": "recms5L6XUkKinPD1",
+    "shipCode": "SC",
+    "id": "SC2507067NCB",
+    "fetchedPackageCode": "7NCB",
+    "packageCode": "7NCB",
+    "urls": {
+      "group": "https://www.facebook.com/groups/428642879669673",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NCB&voyageId=SC2507067NCB"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-07-09",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2507094NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2507094NKW"
+    }
+  },
+  {
+    "name": "Starry Nights in Greece & Croatia",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-07-10",
+    "nights": 10,
+    "itinerary": "recmsxcWNd4zbGwk8",
+    "shipCode": "RS",
+    "id": "RS25071010NATH",
+    "fetchedPackageCode": "10NATH",
+    "packageCode": "10NATH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1862912547522662",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NATH&voyageId=RS25071010NATH"
+    }
+  },
+  {
+    "name": "Atlantis Charter - Barcelona to Lisbon",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-07-13",
+    "nights": 9,
+    "shipCode": "SC",
+    "id": "SC250713",
+    "urls": {
+      "group": "https://www.facebook.com/groups/atlantisbarcelonacruise",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=SC250713"
+    }
+  },
+  {
+    "name": "Grand Cayman, Costa Maya & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-07-13",
+    "nights": 7,
+    "itinerary": "recBopQWchtvI8j9q",
+    "shipCode": "VL",
+    "id": "VL2507137NWC",
+    "fetchedPackageCode": "7NWC",
+    "packageCode": "7NWC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NWC&voyageId=VL2507137NWC"
+    }
+  },
+  {
+    "name": "Grand Turk, Puerto Plata & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-07-20",
+    "nights": 7,
+    "itinerary": "recDleSWyBNwACnsl",
+    "shipCode": "VL",
+    "id": "VL2507207NEC2",
+    "fetchedPackageCode": "7NEC2",
+    "packageCode": "7NEC2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NEC2&voyageId=VL2507207NEC2"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-07-20",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2507207NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/8080181288742199",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2507207NGM2"
+    }
+  },
+  {
+    "name": "Celebration Voyage - Lisbon to Portsmouth",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-07-22",
+    "nights": 5,
+    "itinerary": "recyRyUlOtfPMEi0x",
+    "shipCode": "SC",
+    "id": "SC2507225NLPP",
+    "fetchedPackageCode": "5NLPP",
+    "packageCode": "5NLPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1289371172406790",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NLPP&voyageId=SC2507225NLPP"
+    }
+  },
+  {
+    "name": "England to Iceland & Norway",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-07-27",
+    "nights": 10,
+    "itinerary": "rec9pWlXnOg1rvHBe",
+    "shipCode": "SC",
+    "id": "SC25072710NPR",
+    "fetchedPackageCode": "10NPR",
+    "packageCode": "10NPR",
+    "urls": {
+      "group": "https://www.facebook.com/groups/375154594897920",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NPR&voyageId=SC25072710NPR"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-07-27",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2507275NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2507275NCZ"
+    }
+  },
+  {
+    "name": "Corfu, Dubrovnik & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-07-27",
+    "nights": 7,
+    "itinerary": "reckyDO6gr2REZCmn",
+    "shipCode": "RS",
+    "id": "RS2507277NGA4",
+    "fetchedPackageCode": "7NGA4",
+    "packageCode": "7NGA4",
+    "urls": {
+      "group": "https://www.facebook.com/groups/452433664285547/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGA4&voyageId=RS2507277NGA4"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-01",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2508015NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2508015NPP"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-08-03",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2508037NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://facebook.com/groups/1723206995187510",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2508037NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-06",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2508064NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2508064NKW"
+    }
+  },
+  {
+    "name": "Reykjavik to Amsterdam & Portsmouth",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-08-06",
+    "nights": 11,
+    "itinerary": "recBsXEEYu61bR37Y",
+    "shipCode": "SC",
+    "id": "SC25080611NRP",
+    "fetchedPackageCode": "11NRP",
+    "packageCode": "11NRP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/704801174943075/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NRP&voyageId=SC25080611NRP"
+    }
+  },
+  {
+    "name": "Istanbul, Santorini & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-08-10",
+    "nights": 11,
+    "itinerary": "rec8FQU7ySANop2bK",
+    "shipCode": "RS",
+    "id": "RS25081011NAI",
+    "fetchedPackageCode": "11NAI",
+    "packageCode": "11NAI",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1530417311071884/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NAI&voyageId=RS25081011NAI"
+    }
+  },
+  {
+    "name": "Comedy Fest Voyage - Mayan Sol",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-10",
+    "nights": 5,
+    "itinerary": "rec4XJZJZOanAvtCB",
+    "shipCode": "VL",
+    "id": "VL2508105NCF",
+    "fetchedPackageCode": "5NCF",
+    "packageCode": "5NCF",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1230344194829373",
+      "store": "https://vvinsider.store/collection/mayan-sol/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCF&voyageId=VL2508105NCF"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-15",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2508155NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2508155NPP"
+    }
+  },
+  {
+    "name": "Portsmouth to Ireland, Scotland & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-08-17",
+    "nights": 13,
+    "itinerary": "rec5n5jdjCg8fafcU",
+    "shipCode": "SC",
+    "id": "SC25081713NAD",
+    "fetchedPackageCode": "13NAD",
+    "packageCode": "13NAD",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2102801560060163/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=13NAD&voyageId=SC25081713NAD"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-20",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2508204NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2508204NKW"
+    }
+  },
+  {
+    "name": "Atlantis Charter - Greek Isles & Turkey",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-08-21",
+    "nights": 10,
+    "shipCode": "RS",
+    "id": "RS250821",
+    "urls": {
+      "group": "https://www.facebook.com/groups/883128458839115/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=RS250821"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-24",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2508245NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2508245NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-08-29",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2508295NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2508295NPP"
+    }
+  },
+  {
+    "name": "English Sights & European Delights (Comedy Fest Voyage)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-08-30",
+    "nights": 6,
+    "itinerary": "rec1zpQEHiN3MC26V",
+    "shipCode": "SC",
+    "id": "SC2508306NCF",
+    "fetchedPackageCode": "6NCF",
+    "packageCode": "6NCF",
+    "urls": {
+      "group": "https://www.facebook.com/groups/534622018921459/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NCF&voyageId=SC2508306NCF"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-08-31",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2508317NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/8257737010928363",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2508317NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-03",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2509034NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2509034NKW"
+    }
+  },
+  {
+    "name": "New York Open Ship Night",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-09-04",
+    "nights": 1,
+    "shipCode": "BR",
+    "id": "BR250904",
+    "urls": {
+      "group": "https://www.facebook.com/groups/758296582957813",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=BR250904"
+    }
+  },
+  {
+    "name": "New York MerMaiden",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-09-05",
+    "nights": 5,
+    "itinerary": "rec2US3Ug2MedfcNc",
+    "shipCode": "BR",
+    "id": "BR2509055NNYCM",
+    "fetchedPackageCode": "5NNYCM",
+    "packageCode": "5NNYCM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3507307602863311/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NNYCM&voyageId=BR2509055NNYCM"
+    }
+  },
+  {
+    "name": "Portsmouth to Amsterdam & Bordeaux",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-09-05",
+    "nights": 7,
+    "itinerary": "receZZbbZX3MVYPaA",
+    "shipCode": "SC",
+    "id": "SC2509057NAB2",
+    "fetchedPackageCode": "7NAB2",
+    "packageCode": "7NAB2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1810670829425719",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NAB2&voyageId=SC2509057NAB2"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-07",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "VL",
+    "id": "VL2509075NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "store": "https://vvinsider.store/collection/mayan-sol/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=VL2509075NCM"
+    }
+  },
+  {
+    "name": "Corfu, Dubrovnik & More",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-09-07",
+    "nights": 7,
+    "itinerary": "reckyDO6gr2REZCmn",
+    "shipCode": "RS",
+    "id": "RS2509077NGA4",
+    "fetchedPackageCode": "7NGA4",
+    "packageCode": "7NGA4",
+    "urls": {
+      "group": "https://www.facebook.com/groups/314320541562705",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGA4&voyageId=RS2509077NGA4"
+    }
+  },
+  {
+    "name": "The Big Apple to Bermuda",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-09-10",
+    "nights": 5,
+    "itinerary": "recyJJ90TJw2VpKgG",
+    "shipCode": "BR",
+    "id": "BR2509105NNYC",
+    "fetchedPackageCode": "5NNYC",
+    "packageCode": "5NNYC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2122933458079089/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NNYC&voyageId=BR2509105NNYC"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-12",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2509125NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2509125NPP"
+    }
+  },
+  {
+    "name": "Portsmouth to Lisbon, Casablanca & Spain",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-09-12",
+    "nights": 13,
+    "itinerary": "rec8DukWXdZrfMdDX",
+    "shipCode": "SC",
+    "id": "SC25091213NPB",
+    "fetchedPackageCode": "13NPB",
+    "packageCode": "13NPB",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1068940360907992/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=13NPB&voyageId=SC25091213NPB"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-09-14",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2509147NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/514880447631999/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2509147NGM2"
+    }
+  },
+  {
+    "name": "Northeast Atlantic Adventure",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-09-15",
+    "nights": 8,
+    "itinerary": "recoBo1HK8CZkfQrM",
+    "shipCode": "BR",
+    "id": "BR2509158NNYC",
+    "fetchedPackageCode": "8NNYC",
+    "packageCode": "8NNYC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2052895141807008/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NNYC&voyageId=BR2509158NNYC"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-17",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2509174NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2509174NKW"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-21",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "VL",
+    "id": "VL2509215NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=VL2509215NCZ"
+    }
+  },
+  {
+    "name": "Istanbul, Santorini & More Istanbul, Santorini & More (Celebration Voyage)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-09-21",
+    "nights": 11,
+    "itinerary": "recR4jYULbV2JVH7q",
+    "shipCode": "RS",
+    "id": "RS25092111NAIC",
+    "fetchedPackageCode": "11NAIC",
+    "packageCode": "11NAIC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2031465687237622/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NAIC&voyageId=RS25092111NAIC"
+    }
+  },
+  {
+    "name": "Nautical Northeast: NYC to Quebec",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-09-23",
+    "nights": 10,
+    "itinerary": "recc2r9bMPobYwBH3",
+    "shipCode": "BR",
+    "id": "BR25092310NNYQ",
+    "fetchedPackageCode": "10NNYQ",
+    "packageCode": "10NNYQ",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1365354388188519/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NNYQ&voyageId=BR25092310NNYQ"
+    }
+  },
+  {
+    "name": "Barcelona to Cannes, Rome & Tuscany",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-09-25",
+    "nights": 12,
+    "itinerary": "recNs4x2oYDpNetxJ",
+    "shipCode": "SC",
+    "id": "SC25092512NBC",
+    "fetchedPackageCode": "12NBC",
+    "packageCode": "12NBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/977488393813708/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=12NBC&voyageId=SC25092512NBC"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-09-26",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "VL",
+    "id": "VL2509265NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1094892544895562",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=VL2509265NPP"
+    }
+  },
+  {
+    "name": "Private Charter",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-01",
+    "nights": 4,
+    "shipCode": "VL",
+    "id": "VL251001",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL251001"
+    }
+  },
+  {
+    "name": "Starry Nights in Greece & Croatia",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-10-02",
+    "nights": 10,
+    "itinerary": "recmsxcWNd4zbGwk8",
+    "shipCode": "RS",
+    "id": "RS25100210NATH",
+    "fetchedPackageCode": "10NATH",
+    "packageCode": "10NATH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/409253485007737",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NATH&voyageId=RS25100210NATH"
+    }
+  },
+  {
+    "name": "Canada, Carolina & Miami",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-10-03",
+    "nights": 13,
+    "itinerary": "rec5OGEp84PQE2fIe",
+    "shipCode": "BR",
+    "id": "BR25100313NQNY",
+    "fetchedPackageCode": "13NQNY",
+    "packageCode": "13NQNY",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=13NQNY&voyageId=BR25100313NQNY"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-05",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "VL",
+    "id": "VL2510055NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1832074940637122/",
+      "store": "https://vvinsider.store/collection/mayan-sol/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=VL2510055NCM"
+    }
+  },
+  {
+    "name": "Italy to France & Spain",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-10-07",
+    "nights": 9,
+    "itinerary": "recxcFalL5YH0Jhwx",
+    "shipCode": "SC",
+    "id": "SC2510079NCB",
+    "fetchedPackageCode": "9NCB",
+    "packageCode": "9NCB",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NCB&voyageId=SC2510079NCB"
+    }
+  },
+  {
+    "name": "Private Charter",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-10",
+    "nights": 5,
+    "shipCode": "VL",
+    "id": "VL251010",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL251010"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-10-12",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "RS",
+    "id": "RS2510127NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "group": "https://facebook.com/groups/368502095994783/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=RS2510127NGM2"
+    }
+  },
+  {
+    "name": "Private Charter",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-15",
+    "nights": 4,
+    "shipCode": "VL",
+    "id": "VL251015",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL251015"
+    }
+  },
+  {
+    "name": "Miami Open Ship Night",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-10-16",
+    "nights": 1,
+    "shipCode": "BR",
+    "id": "BR251016",
+    "urls": {
+      "group": "https://www.facebook.com/groups/408957342036738",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=BR251016"
+    }
+  },
+  {
+    "name": "Scarlet's Haunted Halloween Soirée - Spain to Miami Transatlantic",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-10-16",
+    "nights": 15,
+    "itinerary": "reclBEwJITmMmawp2",
+    "shipCode": "SC",
+    "id": "SC25101615NBMH",
+    "fetchedPackageCode": "15NBMH",
+    "packageCode": "15NBMH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/756830543248718/",
+      "store": "https://vvinsider.store/collection/transatlantic-miami-to-barcelona",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=15NBMH&voyageId=SC25101615NBMH"
+    }
+  },
+  {
+    "name": "Miami MerMaiden",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-10-17",
+    "nights": 8,
+    "itinerary": "recgBA49HucAjyazO",
+    "shipCode": "BR",
+    "id": "BR2510178NBMM",
+    "fetchedPackageCode": "8NBMM",
+    "packageCode": "8NBMM",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3616948188528991/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NBMM&voyageId=BR2510178NBMM"
+    }
+  },
+  {
+    "name": "Riviera Maya - Halloween Edition",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-19",
+    "nights": 5,
+    "itinerary": "recMZl58HsdnZLd2R",
+    "shipCode": "VL",
+    "id": "VL2510195NCZH",
+    "fetchedPackageCode": "5NCZH",
+    "packageCode": "5NCZH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/780433733952267",
+      "store": "https://vvinsider.store/collection/riviera-maya/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZH&voyageId=VL2510195NCZH"
+    }
+  },
+  {
+    "name": "Mykonos Moons to Spanish Sunrises",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-10-19",
+    "nights": 7,
+    "itinerary": "recMLaWqMFtSuNmup",
+    "shipCode": "RS",
+    "id": "RS2510197NGM3",
+    "fetchedPackageCode": "7NGM3",
+    "packageCode": "7NGM3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/601185405761607",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM3&voyageId=RS2510197NGM3"
+    }
+  },
+  {
+    "name": "Dominican Daze - Halloween Edition",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-24",
+    "nights": 5,
+    "itinerary": "recXQ4s0L1eX8u8s3",
+    "shipCode": "VL",
+    "id": "VL2510245NPPH",
+    "fetchedPackageCode": "5NPPH",
+    "packageCode": "5NPPH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1312384213450998",
+      "store": "https://vvinsider.store/collection/dominican-daze/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPPH&voyageId=VL2510245NPPH"
+    }
+  },
+  {
+    "name": "Resilient’s Haunted Halloween Soirée - Transatlantic - Mediterranean, Morocco to Miami",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-10-26",
+    "nights": 14,
+    "itinerary": "recNPQFuMGnPCmvE5",
+    "shipCode": "RS",
+    "id": "RS25102614NBMH",
+    "fetchedPackageCode": "14NBMH",
+    "packageCode": "14NBMH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/495197743341526",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=14NBMH&voyageId=RS25102614NBMH"
+    }
+  },
+  {
+    "name": "Fire and Sunset Soirées - Halloween Edition",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-10-29",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "VL",
+    "id": "VL2510294NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1762605324479769",
+      "store": "https://vvinsider.store/collection/fire-sunset-soirees/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=VL2510294NKW"
+    }
+  },
+  {
+    "name": "Honduras, Mexico & Bahamas",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-10-31",
+    "nights": 7,
+    "itinerary": "recDtfMCaVA5Clh4R",
+    "shipCode": "SC",
+    "id": "SC2510317NMX",
+    "fetchedPackageCode": "7NMX",
+    "packageCode": "7NMX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/597736862788511",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NMX&voyageId=SC2510317NMX"
+    }
+  },
+  {
+    "name": "Western Caribbean: From Miami to Bimini",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-11-01",
+    "nights": 7,
+    "itinerary": "recV6qScQZaUrvySJ",
+    "shipCode": "BR",
+    "id": "BR2511017NGOR",
+    "fetchedPackageCode": "7NGOR",
+    "packageCode": "7NGOR",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1188611145790855",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR&voyageId=BR2511017NGOR"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-07",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2511075NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2511075NPP"
+    }
+  },
+  {
+    "name": "Saint (Isles) & Seas of the Caribbean",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-11-08",
+    "nights": 7,
+    "itinerary": "rechXMkVxkdql3qX8",
+    "shipCode": "VL",
+    "id": "VL2511087NRT",
+    "fetchedPackageCode": "7NRT",
+    "packageCode": "7NRT",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRT&voyageId=VL2511087NRT"
+    }
+  },
+  {
+    "name": "Colorful Curaçao to the Charming Caymans",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-11-08",
+    "nights": 12,
+    "itinerary": "recEiu8z9SxMc4SkP",
+    "shipCode": "BR",
+    "id": "BR25110812NCTG",
+    "fetchedPackageCode": "12NCTG",
+    "packageCode": "12NCTG",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=12NCTG&voyageId=BR25110812NCTG"
+    }
+  },
+  {
+    "name": "Western Caribbean Charm",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-11-09",
+    "nights": 6,
+    "itinerary": "rec2JNQvRUP9oLG4u",
+    "shipCode": "RS",
+    "id": "RS2511096NRM",
+    "fetchedPackageCode": "6NRM",
+    "packageCode": "6NRM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NRM&voyageId=RS2511096NRM"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-12",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2511124NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2511124NKW"
+    }
+  },
+  {
+    "name": "San Juan Sunrises & Dominican Dreams",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-11-15",
+    "nights": 7,
+    "itinerary": "recWDOSyLu05Xrltc",
+    "shipCode": "RS",
+    "id": "RS2511157NPD",
+    "fetchedPackageCode": "7NPD",
+    "packageCode": "7NPD",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1089406705976244",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD&voyageId=RS2511157NPD"
+    }
+  },
+  {
+    "name": "Sunny Miles of Tropical Isles",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-11-15",
+    "nights": 7,
+    "itinerary": "recDoeAG4MAt4LT2g",
+    "shipCode": "VL",
+    "id": "VL2511157NSJR",
+    "fetchedPackageCode": "7NSJR",
+    "packageCode": "7NSJR",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJR&voyageId=VL2511157NSJR"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-16",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2511165NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2511165NCZ"
+    }
+  },
+  {
+    "name": "From Miami to St. Croix",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-11-20",
+    "nights": 8,
+    "itinerary": "recJDDYKIIbPzYMLH",
+    "shipCode": "BR",
+    "id": "BR2511208NDP",
+    "fetchedPackageCode": "8NDP",
+    "packageCode": "8NDP",
+    "urls": {
+      "group": "https://www.facebook.com/groups/brilliantlady20nov25",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NDP&voyageId=BR2511208NDP"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-21",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "SC",
+    "id": "SC2511215NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=SC2511215NTC"
+    }
+  },
+  {
+    "name": "Sun-Soaked Seas & Saint Isles",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-11-22",
+    "nights": 10,
+    "itinerary": "recIIF85ZNTfKGyjY",
+    "shipCode": "VL",
+    "id": "VL25112210NSJ3",
+    "fetchedPackageCode": "10NSJ3",
+    "packageCode": "10NSJ3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/992267049181632",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NSJ3&voyageId=VL25112210NSJ3"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-11-22",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2511227NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2511227NGOR2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-26",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2511264NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2511264NKW"
+    }
+  },
+  {
+    "name": "Miami to San Juan",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-11-28",
+    "nights": 9,
+    "itinerary": "recUfLey54IN5ex8F",
+    "shipCode": "BR",
+    "id": "BR2511289NGT",
+    "fetchedPackageCode": "9NGT",
+    "packageCode": "9NGT",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1640950249966333",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NGT&voyageId=BR2511289NGT"
+    }
+  },
+  {
+    "name": "San Juan, Samaná & Bimini",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-11-29",
+    "nights": 7,
+    "itinerary": "recarjrDF2BxMMdxX",
+    "shipCode": "RS",
+    "id": "RS2511297NPD2",
+    "fetchedPackageCode": "7NPD2",
+    "packageCode": "7NPD2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD2&voyageId=RS2511297NPD2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-11-30",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2511305NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2511305NCZ"
+    }
+  },
+  {
+    "name": "Cartagena & Caribbean Faves",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-12-02",
+    "nights": 11,
+    "itinerary": "rec4JUJDLkgnTp2nj",
+    "shipCode": "VL",
+    "id": "VL25120211NSJC2",
+    "fetchedPackageCode": "11NSJC2",
+    "packageCode": "11NSJC2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NSJC2&voyageId=VL25120211NSJC2"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-05",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2512055NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2512055NPP"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-12-06",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2512067NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2512067NGOR2"
+    }
+  },
+  {
+    "name": "Aruban Sunsets & Calm Cayman Days",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-12-07",
+    "nights": 11,
+    "itinerary": "recGpBsHdtLa0fOtH",
+    "shipCode": "BR",
+    "id": "BR25120711NCTG3",
+    "fetchedPackageCode": "11NCTG3",
+    "packageCode": "11NCTG3",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NCTG3&voyageId=BR25120711NCTG3"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-10",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2512104NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2512104NKW"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-12-13",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2512137NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2512137NGOR2"
+    }
+  },
+  {
+    "name": "St. Lucia, St. Maarten, Barbados & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-12-13",
+    "nights": 7,
+    "itinerary": "recZGKMLfLwXJrn3P",
+    "shipCode": "VL",
+    "id": "VL2512137NSJ3",
+    "fetchedPackageCode": "7NSJ3",
+    "packageCode": "7NSJ3",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ3&voyageId=VL2512137NSJ3"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-14",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2512145NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2512145NCZ"
+    }
+  },
+  {
+    "name": "Brilliant Caribbean Holidays",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-12-18",
+    "nights": 8,
+    "itinerary": "recp7LyuSWNxdJjZL",
+    "shipCode": "BR",
+    "id": "BR2512188NTDP2",
+    "fetchedPackageCode": "8NTDP2",
+    "packageCode": "8NTDP2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/555308107040714",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NTDP2&voyageId=BR2512188NTDP2"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-19",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "SC",
+    "id": "SC2512195NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=SC2512195NTC"
+    }
+  },
+  {
+    "name": "Resilient Caribbean Holidays",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-12-20",
+    "nights": 7,
+    "itinerary": "recN79rjmoULrXqbL",
+    "shipCode": "RS",
+    "id": "RS2512207NRCH",
+    "fetchedPackageCode": "7NRCH",
+    "packageCode": "7NRCH",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3932393050326293",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRCH&voyageId=RS2512207NRCH"
+    }
+  },
+  {
+    "name": "Valiant Caribbean Holidays",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-12-20",
+    "nights": 7,
+    "itinerary": "recXLqyjehdBxyjhi",
+    "shipCode": "VL",
+    "id": "VL2512207NSJ4",
+    "fetchedPackageCode": "7NSJ4",
+    "packageCode": "7NSJ4",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ4&voyageId=VL2512207NSJ4"
+    }
+  },
+  {
+    "name": "Scarlet Lady Caribbean Holidays 2025",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-24",
+    "nights": 4,
+    "itinerary": "rec6apSSs1hnqgWEt",
+    "shipCode": "SC",
+    "id": "SC2512244NCH",
+    "fetchedPackageCode": "4NCH",
+    "packageCode": "4NCH",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NCH&voyageId=SC2512244NCH"
+    }
+  },
+  {
+    "name": "Brilliant New Year’s Ahoy!",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2025-12-26",
+    "nights": 9,
+    "itinerary": "recNZJTFLKV5BUHC6",
+    "shipCode": "BR",
+    "id": "BR2512269NNYA",
+    "fetchedPackageCode": "9NNYA",
+    "packageCode": "9NNYA",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NNYA&voyageId=BR2512269NNYA"
+    }
+  },
+  {
+    "name": "Resilient New Year's Ahoy!",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2025-12-27",
+    "nights": 7,
+    "itinerary": "recRk5c1aUuVv63LY",
+    "shipCode": "RS",
+    "id": "RS2512277NRNYA",
+    "fetchedPackageCode": "7NRNYA",
+    "packageCode": "7NRNYA",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRNYA&voyageId=RS2512277NRNYA"
+    }
+  },
+  {
+    "name": "Valiant New Year’s Ahoy!",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2025-12-27",
+    "nights": 7,
+    "itinerary": "recNpssSqiAkhNEVf",
+    "shipCode": "VL",
+    "id": "VL2512277NSJNY2",
+    "fetchedPackageCode": "7NSJNY2",
+    "packageCode": "7NSJNY2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJNY2&voyageId=VL2512277NSJNY2"
+    }
+  },
+  {
+    "name": "Scarlet New Year's Ahoy",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2025-12-28",
+    "nights": 5,
+    "itinerary": "recXAIVRZuHL3BQoy",
+    "shipCode": "SC",
+    "id": "SC2512285NSNY",
+    "fetchedPackageCode": "5NSNY",
+    "packageCode": "5NSNY",
+    "urls": {
+      "group": "https://www.facebook.com/groups/816724467126414",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NSNY&voyageId=SC2512285NSNY"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-02",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2601025NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2601025NPP"
+    }
+  },
+  {
+    "name": "Cozumel, Grand Cayman & Bimini",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-01-03",
+    "nights": 7,
+    "itinerary": "recmVN7p3TjfUaMXK",
+    "shipCode": "RS",
+    "id": "RS2601037NGC",
+    "fetchedPackageCode": "7NGC",
+    "packageCode": "7NGC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2582056408649304",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGC&voyageId=RS2601037NGC"
+    }
+  },
+  {
+    "name": "Aruban Sights & Antiguan Nights",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-01-03",
+    "nights": 7,
+    "itinerary": "rec5jyouUYKx5LFdq",
+    "shipCode": "VL",
+    "id": "VL2601037NSJ8",
+    "fetchedPackageCode": "7NSJ8",
+    "packageCode": "7NSJ8",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1029106305508871/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ8&voyageId=VL2601037NSJ8"
+    }
+  },
+  {
+    "name": "Miami to the Cayman Islands",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-01-04",
+    "nights": 11,
+    "itinerary": "rec0FgdvYYIYyKyTD",
+    "shipCode": "BR",
+    "id": "BR26010411NBN",
+    "fetchedPackageCode": "11NBN",
+    "packageCode": "11NBN",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NBN&voyageId=BR26010411NBN"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-07",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2601074NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2601074NKW"
+    }
+  },
+  {
+    "name": "Cayman Isles & Jamaican Miles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-01-10",
+    "nights": 7,
+    "itinerary": "recSwhpF0p0W6Y6in",
+    "shipCode": "RS",
+    "id": "RS2601107NGOR3",
+    "fetchedPackageCode": "7NGOR3",
+    "packageCode": "7NGOR3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1814929579310820",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR3&voyageId=RS2601107NGOR3"
+    }
+  },
+  {
+    "name": "Virgin Island Views & Saint Isle Blues",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-01-10",
+    "nights": 7,
+    "itinerary": "recdJaeEna3YdHOH8",
+    "shipCode": "VL",
+    "id": "VL2601107NSJ9",
+    "fetchedPackageCode": "7NSJ9",
+    "packageCode": "7NSJ9",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ9&voyageId=VL2601107NSJ9"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-11",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2601115NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2601115NCZ"
+    }
+  },
+  {
+    "name": "Grand Turk Tranquility & St. Croix Charm",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-01-15",
+    "nights": 8,
+    "itinerary": "rec6a1iTf75dafHSQ",
+    "shipCode": "BR",
+    "id": "BR2601158NTDP",
+    "fetchedPackageCode": "8NTDP",
+    "packageCode": "8NTDP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NTDP&voyageId=BR2601158NTDP"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-16",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "SC",
+    "id": "SC2601165NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=SC2601165NTC"
+    }
+  },
+  {
+    "name": "St. Kitts, Barbados, Martinique & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-01-17",
+    "nights": 7,
+    "itinerary": "recIcFmDW0T09dZsU",
+    "shipCode": "VL",
+    "id": "VL2601177NSJ5",
+    "fetchedPackageCode": "7NSJ5",
+    "packageCode": "7NSJ5",
+    "urls": {
+      "group": "https://www.facebook.com/groups/741240284680419",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ5&voyageId=VL2601177NSJ5"
+    }
+  },
+  {
+    "name": "San Juan, Samaná & Bimini",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-01-17",
+    "nights": 7,
+    "itinerary": "recarjrDF2BxMMdxX",
+    "shipCode": "RS",
+    "id": "RS2601177NPD2",
+    "fetchedPackageCode": "7NPD2",
+    "packageCode": "7NPD2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD2&voyageId=RS2601177NPD2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-21",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2601214NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2601214NKW"
+    }
+  },
+  {
+    "name": "Miami to San Juan",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-01-23",
+    "nights": 9,
+    "itinerary": "recUfLey54IN5ex8F",
+    "shipCode": "BR",
+    "id": "BR2601239NGT",
+    "fetchedPackageCode": "9NGT",
+    "packageCode": "9NGT",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NGT&voyageId=BR2601239NGT"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-01-24",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2601247NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2601247NGOR2"
+    }
+  },
+  {
+    "name": "Barbados, Antigua, BVI & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-01-24",
+    "nights": 7,
+    "itinerary": "recOesGZtqKZ6cOOO",
+    "shipCode": "VL",
+    "id": "VL2601247NRT2",
+    "fetchedPackageCode": "7NRT2",
+    "packageCode": "7NRT2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1546336979645420/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRT2&voyageId=VL2601247NRT2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-25",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2601255NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2601255NCZ"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-01-30",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2601305NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2601305NPP"
+    }
+  },
+  {
+    "name": "San Juan Sunrises & Dominican Dreams",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-01-31",
+    "nights": 7,
+    "itinerary": "recWDOSyLu05Xrltc",
+    "shipCode": "RS",
+    "id": "RS2601317NPD",
+    "fetchedPackageCode": "7NPD",
+    "packageCode": "7NPD",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD&voyageId=RS2601317NPD"
+    }
+  },
+  {
+    "name": "Quintessential Caribbean Highlights",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-01-31",
+    "nights": 10,
+    "itinerary": "recpGJkx2kSXvRTRk",
+    "shipCode": "VL",
+    "id": "VL26013110NSJ5",
+    "fetchedPackageCode": "10NSJ5",
+    "packageCode": "10NSJ5",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1237459410700643",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NSJ5&voyageId=VL26013110NSJ5"
+    }
+  },
+  {
+    "name": "Magnetic Miami to Gorgeous George Town",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-02-01",
+    "nights": 11,
+    "itinerary": "recW3f2vUncSMosJC",
+    "shipCode": "BR",
+    "id": "BR26020111NCTG2",
+    "fetchedPackageCode": "11NCTG2",
+    "packageCode": "11NCTG2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NCTG2&voyageId=BR26020111NCTG2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-04",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2602044NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2602044NKW"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-02-07",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2602077NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2602077NGOR2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-08",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2602085NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2602085NCZ"
+    }
+  },
+  {
+    "name": "Cartagena, Aruba, Antigua & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-02-10",
+    "nights": 11,
+    "itinerary": "rec6vVdx7yCAsyURL",
+    "shipCode": "VL",
+    "id": "VL26021011NSJ2",
+    "fetchedPackageCode": "11NSJ2",
+    "packageCode": "11NSJ2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NSJ2&voyageId=VL26021011NSJ2"
+    }
+  },
+  {
+    "name": "From Miami to St. Croix",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-02-12",
+    "nights": 8,
+    "itinerary": "recJDDYKIIbPzYMLH",
+    "shipCode": "BR",
+    "id": "BR2602128NDP",
+    "fetchedPackageCode": "8NDP",
+    "packageCode": "8NDP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NDP&voyageId=BR2602128NDP"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-13",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2602135NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2602135NPP"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-02-14",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2602147NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2602147NGOR2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-18",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2602184NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2602184NKW"
+    }
+  },
+  {
+    "name": "Miami to San Juan",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-02-20",
+    "nights": 9,
+    "itinerary": "recUfLey54IN5ex8F",
+    "shipCode": "BR",
+    "id": "BR2602209NGT",
+    "fetchedPackageCode": "9NGT",
+    "packageCode": "9NGT",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NGT&voyageId=BR2602209NGT"
+    }
+  },
+  {
+    "name": "Antigua, Martinique, & Barbados & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-02-21",
+    "nights": 7,
+    "itinerary": "rectRwykiIAvEV9JY",
+    "shipCode": "VL",
+    "id": "VL2602217NSJ6",
+    "fetchedPackageCode": "7NSJ6",
+    "packageCode": "7NSJ6",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ6&voyageId=VL2602217NSJ6"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-02-21",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2602217NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2602217NGOR2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-22",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2602225NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2602225NCZ"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-02-27",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "SC",
+    "id": "SC2602275NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=SC2602275NTC"
+    }
+  },
+  {
+    "name": "San Juan Sunrises & Dominican Dreams",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-02-28",
+    "nights": 7,
+    "itinerary": "recWDOSyLu05Xrltc",
+    "shipCode": "RS",
+    "id": "RS2602287NPD",
+    "fetchedPackageCode": "7NPD",
+    "packageCode": "7NPD",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD&voyageId=RS2602287NPD"
+    }
+  },
+  {
+    "name": "Sunny Miles of Tropical Isles",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-02-28",
+    "nights": 7,
+    "itinerary": "recDoeAG4MAt4LT2g",
+    "shipCode": "VL",
+    "id": "VL2602287NSJR",
+    "fetchedPackageCode": "7NSJR",
+    "packageCode": "7NSJR",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJR&voyageId=VL2602287NSJR"
+    }
+  },
+  {
+    "name": "Aruban Sunsets & Calm Cayman Days",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-03-01",
+    "nights": 11,
+    "itinerary": "recGpBsHdtLa0fOtH",
+    "shipCode": "BR",
+    "id": "BR26030111NCTG3",
+    "fetchedPackageCode": "11NCTG3",
+    "packageCode": "11NCTG3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1306933750689591/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NCTG3&voyageId=BR26030111NCTG3"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-04",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2603044NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2603044NKW"
+    }
+  },
+  {
+    "name": "Cayman Isles & Jamaican Miles",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-03-07",
+    "nights": 7,
+    "itinerary": "recSwhpF0p0W6Y6in",
+    "shipCode": "RS",
+    "id": "RS2603077NGOR3",
+    "fetchedPackageCode": "7NGOR3",
+    "packageCode": "7NGOR3",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR3&voyageId=RS2603077NGOR3"
+    }
+  },
+  {
+    "name": "Quaint Castries to Elegant Antigua",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-03-07",
+    "nights": 7,
+    "itinerary": "recQsclArN0mQq1so",
+    "shipCode": "VL",
+    "id": "VL2603077NSJ7",
+    "fetchedPackageCode": "7NSJ7",
+    "packageCode": "7NSJ7",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJ7&voyageId=VL2603077NSJ7"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-08",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2603085NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2603085NCZ"
+    }
+  },
+  {
+    "name": "Gorgeous Antigua, St. Kitts & Bimini",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-03-12",
+    "nights": 9,
+    "itinerary": "rec4jCqoTUdlMHkK3",
+    "shipCode": "BR",
+    "id": "BR2603129NGT2",
+    "fetchedPackageCode": "9NGT2",
+    "packageCode": "9NGT2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NGT2&voyageId=BR2603129NGT2"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-13",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2603135NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2603135NPP"
+    }
+  },
+  {
+    "name": "Costa Mayan Caves & Honduran Waves",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-03-14",
+    "nights": 6,
+    "itinerary": "recD37cn2gEmcbaCz",
+    "shipCode": "RS",
+    "id": "RS2603146NMX",
+    "fetchedPackageCode": "6NMX",
+    "packageCode": "6NMX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/834107915444492",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NMX&voyageId=RS2603146NMX"
+    }
+  },
+  {
+    "name": "Sunsets in the Lesser Antilles",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-03-14",
+    "nights": 7,
+    "itinerary": "recFNwzkjDlwL2Z7W",
+    "shipCode": "VL",
+    "id": "VL2603147NSE",
+    "fetchedPackageCode": "7NSE",
+    "packageCode": "7NSE",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSE&voyageId=VL2603147NSE"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-18",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2603184NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2603184NKW"
+    }
+  },
+  {
+    "name": "Puerto Rican Nights & St. Croix Delights",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-03-20",
+    "nights": 8,
+    "itinerary": "recYPZKJ8Zv4xyiq1",
+    "shipCode": "RS",
+    "id": "RS2603208NDP2",
+    "fetchedPackageCode": "8NDP2",
+    "packageCode": "8NDP2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/792122756286487/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NDP2&voyageId=RS2603208NDP2"
+    }
+  },
+  {
+    "name": "Saint (Isles) & Seas of the Caribbean",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-03-21",
+    "nights": 7,
+    "itinerary": "rechXMkVxkdql3qX8",
+    "shipCode": "VL",
+    "id": "VL2603217NRT",
+    "fetchedPackageCode": "7NRT",
+    "packageCode": "7NRT",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NRT&voyageId=VL2603217NRT"
+    }
+  },
+  {
+    "name": "Miami to LA via Panama Canal",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-03-21",
+    "nights": 16,
+    "itinerary": "recgYinEW0MXYC9w9",
+    "shipCode": "BR",
+    "id": "BR26032116NMLAX",
+    "fetchedPackageCode": "16NMLAX",
+    "packageCode": "16NMLAX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/719550553462656",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=16NMLAX&voyageId=BR26032116NMLAX"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-22",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2603225NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2603225NCZ"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-03-27",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "SC",
+    "id": "SC2603275NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=SC2603275NTC"
+    }
+  },
+  {
+    "name": "San Juan Sunrises & Dominican Dreams",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-03-28",
+    "nights": 7,
+    "itinerary": "recWDOSyLu05Xrltc",
+    "shipCode": "RS",
+    "id": "RS2603287NPD",
+    "fetchedPackageCode": "7NPD",
+    "packageCode": "7NPD",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD&voyageId=RS2603287NPD"
+    }
+  },
+  {
+    "name": "Tortola, Charleston, Newport & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-03-28",
+    "nights": 9,
+    "itinerary": "recQc9JCD7o5pJIT9",
+    "shipCode": "VL",
+    "id": "VL2603289NSJN",
+    "fetchedPackageCode": "9NSJN",
+    "packageCode": "9NSJN",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NSJN&voyageId=VL2603289NSJN"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-01",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2604014NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2604014NKW"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-04-04",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2604047NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2604047NGOR2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-05",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "SC",
+    "id": "SC2604055NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=SC2604055NCZ"
+    }
+  },
+  {
+    "name": "Los Angeles Open Ship Night",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-04-06",
+    "nights": 1,
+    "shipCode": "BR",
+    "id": "BR260406",
+    "urls": {
+      "group": "https://www.facebook.com/groups/793258649420859",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=BR260406"
+    }
+  },
+  {
+    "name": "The Big Apple to Bermuda",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-04-06",
+    "nights": 5,
+    "itinerary": "recyJJ90TJw2VpKgG",
+    "shipCode": "VL",
+    "id": "VL2604065NNYC",
+    "fetchedPackageCode": "5NNYC",
+    "packageCode": "5NNYC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NNYC&voyageId=VL2604065NNYC"
+    }
+  },
+  {
+    "name": "Los Angeles MerMaiden",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-04-07",
+    "nights": 5,
+    "itinerary": "recnlRXaC8HthnISJ",
+    "shipCode": "BR",
+    "id": "BR2604075NLAX",
+    "fetchedPackageCode": "5NLAX",
+    "packageCode": "5NLAX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/803442508333403/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NLAX&voyageId=BR2604075NLAX"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-10",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "SC",
+    "id": "SC2604105NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=SC2604105NPP"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-04-11",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2604117NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2604117NGOR2"
+    }
+  },
+  {
+    "name": "The Big Apple to Bermuda",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-04-11",
+    "nights": 5,
+    "itinerary": "recyJJ90TJw2VpKgG",
+    "shipCode": "VL",
+    "id": "VL2604115NNYC",
+    "fetchedPackageCode": "5NNYC",
+    "packageCode": "5NNYC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NNYC&voyageId=VL2604115NNYC"
+    }
+  },
+  {
+    "name": "California (and Mexico) Dreamin'",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-04-12",
+    "nights": 6,
+    "itinerary": "reckwNMmFBp4FoMdQ",
+    "shipCode": "BR",
+    "id": "BR2604126NLAX",
+    "fetchedPackageCode": "6NLAX",
+    "packageCode": "6NLAX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/993818895743537/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=6NLAX&voyageId=BR2604126NLAX"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-15",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "SC",
+    "id": "SC2604154NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=SC2604154NKW"
+    }
+  },
+  {
+    "name": "Bermuda Beauty to East Coast Elegance",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-04-16",
+    "nights": 9,
+    "itinerary": "recAtOjEDzJUOGKKM",
+    "shipCode": "VL",
+    "id": "VL2604169NNYC",
+    "fetchedPackageCode": "9NNYC",
+    "packageCode": "9NNYC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NNYC&voyageId=VL2604169NNYC"
+    }
+  },
+  {
+    "name": "San Juan Sunrises & Dominican Dreams",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-04-18",
+    "nights": 7,
+    "itinerary": "recWDOSyLu05Xrltc",
+    "shipCode": "RS",
+    "id": "RS2604187NPD",
+    "fetchedPackageCode": "7NPD",
+    "packageCode": "7NPD",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD&voyageId=RS2604187NPD"
+    }
+  },
+  {
+    "name": "Puerto Plata, San Juan & Tortola",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-19",
+    "nights": 7,
+    "itinerary": "rec2W4XFpVYMn8slW",
+    "shipCode": "SC",
+    "id": "SC2604197NPD4",
+    "fetchedPackageCode": "7NPD4",
+    "packageCode": "7NPD4",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPD4&voyageId=SC2604197NPD4"
+    }
+  },
+  {
+    "name": "RUMORED Transatlantic - New York to Europe",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-04-25",
+    "nights": 14,
+    "shipCode": "VL",
+    "id": "VL260425",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1716109332555109",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=VL260425"
+    }
+  },
+  {
+    "name": "Cayman Coves & Jamaican Waterfalls",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-04-25",
+    "nights": 7,
+    "itinerary": "recHL9bi66vuPd3xQ",
+    "shipCode": "RS",
+    "id": "RS2604257NGOR2",
+    "fetchedPackageCode": "7NGOR2",
+    "packageCode": "7NGOR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGOR2&voyageId=RS2604257NGOR2"
+    }
+  },
+  {
+    "name": "Transatlantic - Miami to Barcelona",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-04-26",
+    "nights": 14,
+    "itinerary": "recDVaUZ7cZfqIeYY",
+    "shipCode": "SC",
+    "id": "SC26042614NTA",
+    "fetchedPackageCode": "14NTA",
+    "packageCode": "14NTA",
+    "urls": {
+      "group": "https://www.facebook.com/groups/565901102439746/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=14NTA&voyageId=SC26042614NTA"
+    }
+  },
+  {
+    "name": "Hollywood Sunsets & Mexican Horizons",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-04-26",
+    "nights": 7,
+    "itinerary": "recoRWeyEgstYccIm",
+    "shipCode": "BR",
+    "id": "BR2604267NLAX",
+    "fetchedPackageCode": "7NLAX",
+    "packageCode": "7NLAX",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3748957188708502",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NLAX&voyageId=BR2604267NLAX"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-02",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2605025NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2605025NTC"
+    }
+  },
+  {
+    "name": "LA Lights & Vancouver Vistas",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-05-03",
+    "nights": 8,
+    "itinerary": "recySfLPw57qG1Jcd",
+    "shipCode": "BR",
+    "id": "BR2605038NLAV",
+    "fetchedPackageCode": "8NLAV",
+    "packageCode": "8NLAV",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1178769556452837/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NLAV&voyageId=BR2605038NLAV"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-07",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2605074NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2605074NKW"
+    }
+  },
+  {
+    "name": "Rome, Mykonos & The Amalfi Coast",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-05-10",
+    "nights": 7,
+    "itinerary": "rec3t9ilTEkfm7jwt",
+    "shipCode": "SC",
+    "id": "SC2605107NBA",
+    "fetchedPackageCode": "7NBA",
+    "packageCode": "7NBA",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NBA&voyageId=SC2605107NBA"
+    }
+  },
+  {
+    "name": "Alaska Awe from Vancouver to Seattle",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-05-11",
+    "nights": 10,
+    "itinerary": "recjU3a0EjOOW0S5i",
+    "shipCode": "BR",
+    "id": "BR26051110NVAS",
+    "fetchedPackageCode": "10NVAS",
+    "packageCode": "10NVAS",
+    "urls": {
+      "group": "https://www.facebook.com/groups/virginalaskaawe/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NVAS&voyageId=BR26051110NVAS"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-11",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2605115NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2605115NCZ"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-16",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2605165NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2605165NCM"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-05-17",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "SC",
+    "id": "SC2605177NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=SC2605177NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-21",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2605214NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2605214NKW"
+    }
+  },
+  {
+    "name": "Seattle MerMaiden",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-05-21",
+    "nights": 7,
+    "itinerary": "recIfKta8ltKlzz6H",
+    "shipCode": "BR",
+    "id": "BR2605217NSEA",
+    "fetchedPackageCode": "7NSEA",
+    "packageCode": "7NSEA",
+    "urls": {
+      "group": "https://www.facebook.com/groups/596865419422030",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSEA&voyageId=BR2605217NSEA"
+    }
+  },
+  {
+    "name": "Corfu, Dubrovnik & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-05-24",
+    "nights": 7,
+    "itinerary": "reckyDO6gr2REZCmn",
+    "shipCode": "SC",
+    "id": "SC2605247NGA4",
+    "fetchedPackageCode": "7NGA4",
+    "packageCode": "7NGA4",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGA4&voyageId=SC2605247NGA4"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-25",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "RS",
+    "id": "RS2605255NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=RS2605255NPP"
+    }
+  },
+  {
+    "name": "Seattle, Juneau & Canadian Coasts",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-05-28",
+    "nights": 7,
+    "itinerary": "rec78EdOgGCc5SURe",
+    "shipCode": "BR",
+    "id": "BR2605287NSJS",
+    "fetchedPackageCode": "7NSJS",
+    "packageCode": "7NSJS",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1021450526401568/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJS&voyageId=BR2605287NSJS"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-05-30",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2605305NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2605305NTC"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-05-31",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "SC",
+    "id": "SC2605317NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=SC2605317NGM2"
+    }
+  },
+  {
+    "name": "Alaskan Glacier Blues & Coastal Views",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-06-04",
+    "nights": 7,
+    "itinerary": "rec9nNJSEFZJudv4w",
+    "shipCode": "BR",
+    "id": "BR2606047NSBC",
+    "fetchedPackageCode": "7NSBC",
+    "packageCode": "7NSBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1291300755646229",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSBC&voyageId=BR2606047NSBC"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-04",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2606044NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2606044NKW"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-06-07",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "SC",
+    "id": "SC2606077NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=SC2606077NGM2"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-08",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2606085NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2606085NCZ"
+    }
+  },
+  {
+    "name": "Inside Passage Alaska & Canadian Coasts",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-06-11",
+    "nights": 12,
+    "itinerary": "recr6zzyXDHNDQIDj",
+    "shipCode": "BR",
+    "id": "BR26061112NSBC",
+    "fetchedPackageCode": "12NSBC",
+    "packageCode": "12NSBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/8645515758841366/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=12NSBC&voyageId=BR26061112NSBC"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-13",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2606135NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/miami2grandturk/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2606135NTC"
+    }
+  },
+  {
+    "name": "Spanish Serenity to French Daydreams",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-06-14",
+    "nights": 7,
+    "itinerary": "recmtQq2zuZODCGNx",
+    "shipCode": "VL",
+    "id": "VL2606147NBB2",
+    "fetchedPackageCode": "7NBB2",
+    "packageCode": "7NBB2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1283676719431683",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NBB2&voyageId=VL2606147NBB2"
+    }
+  },
+  {
+    "name": "Starry Nights in Greece & Croatia",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-06-14",
+    "nights": 10,
+    "itinerary": "recmsxcWNd4zbGwk8",
+    "shipCode": "SC",
+    "id": "SC26061410NATH",
+    "fetchedPackageCode": "10NATH",
+    "packageCode": "10NATH",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NATH&voyageId=SC26061410NATH"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-18",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2606184NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2606184NKW"
+    }
+  },
+  {
+    "name": "Italian Vistas to Spanish Sunsets",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-06-21",
+    "nights": 7,
+    "itinerary": "rechTVBJpghNgZuzX",
+    "shipCode": "VL",
+    "id": "VL2606217NBB3",
+    "fetchedPackageCode": "7NBB3",
+    "packageCode": "7NBB3",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NBB3&voyageId=VL2606217NBB3"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-22",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2606225NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2606225NCM"
+    }
+  },
+  {
+    "name": "Alaskan Inside Passage & Canadian Coasts",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-06-23",
+    "nights": 9,
+    "itinerary": "reciZu6RI19XZ6gSH",
+    "shipCode": "BR",
+    "id": "BR2606239NSABC",
+    "fetchedPackageCode": "9NSABC",
+    "packageCode": "9NSABC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/965135528968786/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NSABC&voyageId=BR2606239NSABC"
+    }
+  },
+  {
+    "name": "Istanbul Delights & Santorini Dreams",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-06-24",
+    "nights": 11,
+    "itinerary": "recuhQsgubCwae8QO",
+    "shipCode": "SC",
+    "id": "SC26062411NWDF",
+    "fetchedPackageCode": "11NWDF",
+    "packageCode": "11NWDF",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=11NWDF&voyageId=SC26062411NWDF"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-06-27",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2606275NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2606275NCZ"
+    }
+  },
+  {
+    "name": "Moroccan Marvels & Mediterranean Wonders",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-06-28",
+    "nights": 10,
+    "itinerary": "rec9PX5BlbkmNdelP",
+    "shipCode": "VL",
+    "id": "VL26062810NWDF",
+    "fetchedPackageCode": "10NWDF",
+    "packageCode": "10NWDF",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NWDF&voyageId=VL26062810NWDF"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-02",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2607024NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2607024NKW"
+    }
+  },
+  {
+    "name": "Inside Passage (Eat & Drink Edition)",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-07-02",
+    "nights": 7,
+    "itinerary": "recb3nP3bJArqU5Dc",
+    "shipCode": "BR",
+    "id": "BR2607027NSED",
+    "fetchedPackageCode": "7NSED",
+    "packageCode": "7NSED",
+    "urls": {
+      "group": "https://facebook.com/groups/1551860792122943/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSED&voyageId=BR2607027NSED"
+    }
+  },
+  {
+    "name": "Unknown",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-07-05",
+    "shipCode": "SC",
+    "id": "SC260705",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=SC260705"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-06",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "RS",
+    "id": "RS2607065NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=RS2607065NPP"
+    }
+  },
+  {
+    "name": "Emerald Isles & Highland Wonders",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-07-08",
+    "nights": 14,
+    "itinerary": "recotdkFMrbg5ToSj",
+    "shipCode": "VL",
+    "id": "VL26070814NWDF",
+    "fetchedPackageCode": "14NWDF",
+    "packageCode": "14NWDF",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1238244804199756",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=14NWDF&voyageId=VL26070814NWDF"
+    }
+  },
+  {
+    "name": "Inside Passage (Eat & Drink Edition)",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-07-09",
+    "nights": 7,
+    "itinerary": "recb3nP3bJArqU5Dc",
+    "shipCode": "BR",
+    "id": "BR2607097NSED",
+    "fetchedPackageCode": "7NSED",
+    "packageCode": "7NSED",
+    "urls": {
+      "group": "https://www.facebook.com/groups/899244211891288",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSED&voyageId=BR2607097NSED"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-11",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2607115NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2607115NTC"
+    }
+  },
+  {
+    "name": "Inside Passage (Eat & Drink Edition)",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-07-16",
+    "nights": 7,
+    "itinerary": "recb3nP3bJArqU5Dc",
+    "shipCode": "BR",
+    "id": "BR2607167NSED",
+    "fetchedPackageCode": "7NSED",
+    "packageCode": "7NSED",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1533988810575769/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSED&voyageId=BR2607167NSED"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-16",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2607164NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2607164NKW"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-20",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2607205NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2607205NCZ"
+    }
+  },
+  {
+    "name": "Baltic Wonders & Nordic Nights",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-07-22",
+    "nights": 14,
+    "itinerary": "recl0X0bt5SrADI27",
+    "shipCode": "VL",
+    "id": "VL26072214NWDF2",
+    "fetchedPackageCode": "14NWDF2",
+    "packageCode": "14NWDF2",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1476589469729011",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=14NWDF2&voyageId=VL26072214NWDF2"
+    }
+  },
+  {
+    "name": "Inside Passage (Eat & Drink Edition)",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-07-23",
+    "nights": 7,
+    "itinerary": "recb3nP3bJArqU5Dc",
+    "shipCode": "BR",
+    "id": "BR2607237NSED",
+    "fetchedPackageCode": "7NSED",
+    "packageCode": "7NSED",
+    "urls": {
+      "group": "https://www.facebook.com/groups/582237000819717",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSED&voyageId=BR2607237NSED"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-25",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2607255NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2607255NCM"
+    }
+  },
+  {
+    "name": "Alaskan Glacier Blues & Coastal Views",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-07-30",
+    "nights": 7,
+    "itinerary": "rec9nNJSEFZJudv4w",
+    "shipCode": "BR",
+    "id": "BR2607307NSBC",
+    "fetchedPackageCode": "7NSBC",
+    "packageCode": "7NSBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1199269964481359",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSBC&voyageId=BR2607307NSBC"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-07-30",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2607304NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2607304NKW"
+    }
+  },
+  {
+    "name": "Spanish, French & Italian Classics",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-08-02",
+    "nights": 8,
+    "itinerary": "recv93MqNL6o2qAR6",
+    "shipCode": "SC",
+    "id": "SC2608028NBB",
+    "fetchedPackageCode": "8NBB",
+    "packageCode": "8NBB",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NBB&voyageId=SC2608028NBB"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-03",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "RS",
+    "id": "RS2608035NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=RS2608035NPP"
+    }
+  },
+  {
+    "name": "Eclipse in the Land of Fire and Ice",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-08-05",
+    "nights": 15,
+    "itinerary": "recxzUEolhvn0gA2k",
+    "shipCode": "VL",
+    "id": "VL26080515NWDF",
+    "fetchedPackageCode": "15NWDF",
+    "packageCode": "15NWDF",
+    "urls": {
+      "group": "https://www.facebook.com/groups/3805036946438224",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=15NWDF&voyageId=VL26080515NWDF"
+    }
+  },
+  {
+    "name": "Alaskan Glacier Blues & Coastal Views",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-08-06",
+    "nights": 7,
+    "itinerary": "rec9nNJSEFZJudv4w",
+    "shipCode": "BR",
+    "id": "BR2608067NSBC",
+    "fetchedPackageCode": "7NSBC",
+    "packageCode": "7NSBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/2888537417984019",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSBC&voyageId=BR2608067NSBC"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-08",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2608085NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2608085NCM"
+    }
+  },
+  {
+    "name": "Total Eclipse of the Med",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-08-10",
+    "nights": 12,
+    "itinerary": "reck403B7svbJVQGS",
+    "shipCode": "SC",
+    "id": "SC26081012NWDF",
+    "fetchedPackageCode": "12NWDF",
+    "packageCode": "12NWDF",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1503595547239911",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=12NWDF&voyageId=SC26081012NWDF"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-13",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2608134NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2608134NKW"
+    }
+  },
+  {
+    "name": "Alaskan Glacier Blues & Coastal Views",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-08-13",
+    "nights": 7,
+    "itinerary": "rec9nNJSEFZJudv4w",
+    "shipCode": "BR",
+    "id": "BR2608137NSBC",
+    "fetchedPackageCode": "7NSBC",
+    "packageCode": "7NSBC",
+    "urls": {
+      "group": "https://www.facebook.com/groups/439579509247169/",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSBC&voyageId=BR2608137NSBC"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-17",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2608175NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2608175NCM"
+    }
+  },
+  {
+    "name": "Bruges, Amsterdam, Hamburg & More",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-08-20",
+    "nights": 7,
+    "itinerary": "recvRXYzIbfWLJvDR",
+    "shipCode": "VL",
+    "id": "VL2608207NPMG",
+    "fetchedPackageCode": "7NPMG",
+    "packageCode": "7NPMG",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NPMG&voyageId=VL2608207NPMG"
+    }
+  },
+  {
+    "name": "Alaskan Glacier Blues & Coastal Views",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-08-20",
+    "nights": 7,
+    "itinerary": "rec9nNJSEFZJudv4w",
+    "shipCode": "BR",
+    "id": "BR2608207NSBC",
+    "fetchedPackageCode": "7NSBC",
+    "packageCode": "7NSBC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSBC&voyageId=BR2608207NSBC"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-22",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2608225NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2608225NCZ"
+    }
+  },
+  {
+    "name": "Sicily, Naples, Cannes & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-08-22",
+    "nights": 9,
+    "itinerary": "recI7NRad41ntRDJt",
+    "shipCode": "SC",
+    "id": "SC2608229NCC",
+    "fetchedPackageCode": "9NCC",
+    "packageCode": "9NCC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=9NCC&voyageId=SC2608229NCC"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-27",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2608274NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2608274NKW"
+    }
+  },
+  {
+    "name": "Seattle, Juneau & Canadian Coasts",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-08-27",
+    "nights": 7,
+    "itinerary": "rec78EdOgGCc5SURe",
+    "shipCode": "BR",
+    "id": "BR2608277NSJS",
+    "fetchedPackageCode": "7NSJS",
+    "packageCode": "7NSJS",
+    "urls": {
+      "group": "https://www.facebook.com/groups/1087383336101818",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NSJS&voyageId=BR2608277NSJS"
+    }
+  },
+  {
+    "name": "English Elegance to Idyllic Iceland",
+    "ship": "rechXDnwmlWYYV6oz",
+    "date": "2026-08-27",
+    "nights": 10,
+    "itinerary": "rec4CprVv0gbSc22q",
+    "shipCode": "VL",
+    "id": "VL26082710NPR2",
+    "fetchedPackageCode": "10NPR2",
+    "packageCode": "10NPR2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NPR2&voyageId=VL26082710NPR2"
+    }
+  },
+  {
+    "name": "Rome, Florence, Mykonos & More",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-08-31",
+    "nights": 10,
+    "itinerary": "rec1fjyZpYv487Ypv",
+    "shipCode": "SC",
+    "id": "SC26083110NCA",
+    "fetchedPackageCode": "10NCA",
+    "packageCode": "10NCA",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NCA&voyageId=SC26083110NCA"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-08-31",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "RS",
+    "id": "RS2608315NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=RS2608315NPP"
+    }
+  },
+  {
+    "name": "Seattle to Alaska & British Columbia",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-09-03",
+    "nights": 8,
+    "itinerary": "recDLOMZlDe09h3Uo",
+    "shipCode": "BR",
+    "id": "BR2609038NSABC",
+    "fetchedPackageCode": "8NSABC",
+    "packageCode": "8NSABC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NSABC&voyageId=BR2609038NSABC"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-05",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2609055NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2609055NTC"
+    }
+  },
+  {
+    "name": "Starry Nights in Greece & Croatia",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-09-10",
+    "nights": 10,
+    "itinerary": "recmsxcWNd4zbGwk8",
+    "shipCode": "SC",
+    "id": "SC26091010NATH",
+    "fetchedPackageCode": "10NATH",
+    "packageCode": "10NATH",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=10NATH&voyageId=SC26091010NATH"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-10",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2609104NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2609104NKW"
+    }
+  },
+  {
+    "name": "Vancouver Down the Cali Coast",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-09-11",
+    "nights": 8,
+    "itinerary": "rec62v8zaT1fiHULx",
+    "shipCode": "BR",
+    "id": "BR2609118NVAC",
+    "fetchedPackageCode": "8NVAC",
+    "packageCode": "8NVAC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=8NVAC&voyageId=BR2609118NVAC"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-14",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2609145NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2609145NCM"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-19",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2609195NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2609195NCZ"
+    }
+  },
+  {
+    "name": "Hollywood Sunsets & Mexican Horizons",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-09-19",
+    "nights": 7,
+    "itinerary": "recoRWeyEgstYccIm",
+    "shipCode": "BR",
+    "id": "BR2609197NLAX",
+    "fetchedPackageCode": "7NLAX",
+    "packageCode": "7NLAX",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NLAX&voyageId=BR2609197NLAX"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-09-20",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "SC",
+    "id": "SC2609207NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=SC2609207NGM2"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-24",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2609244NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2609244NKW"
+    }
+  },
+  {
+    "name": "Hollywood Sunsets & Mexican Horizons",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-09-26",
+    "nights": 7,
+    "itinerary": "recoRWeyEgstYccIm",
+    "shipCode": "BR",
+    "id": "BR2609267NLAX",
+    "fetchedPackageCode": "7NLAX",
+    "packageCode": "7NLAX",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NLAX&voyageId=BR2609267NLAX"
+    }
+  },
+  {
+    "name": "Greek Island Glow",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-09-27",
+    "nights": 7,
+    "itinerary": "recB9MYJzkEpuwqO1",
+    "shipCode": "SC",
+    "id": "SC2609277NGM2",
+    "fetchedPackageCode": "7NGM2",
+    "packageCode": "7NGM2",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM2&voyageId=SC2609277NGM2"
+    }
+  },
+  {
+    "name": "Dominican Daze",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-09-28",
+    "nights": 5,
+    "itinerary": "recFt07SOnoKIGRuR",
+    "shipCode": "RS",
+    "id": "RS2609285NPP",
+    "fetchedPackageCode": "5NPP",
+    "packageCode": "5NPP",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NPP&voyageId=RS2609285NPP"
+    }
+  },
+  {
+    "name": "Hollywood Sunsets & Mexican Horizons",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-10-03",
+    "nights": 7,
+    "itinerary": "recoRWeyEgstYccIm",
+    "shipCode": "BR",
+    "id": "BR2610037NLAX",
+    "fetchedPackageCode": "7NLAX",
+    "packageCode": "7NLAX",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NLAX&voyageId=BR2610037NLAX"
+    }
+  },
+  {
+    "name": "Miami, Grand Turk (& back)",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-10-03",
+    "nights": 5,
+    "itinerary": "recLLEVZSFgdOiwdu",
+    "shipCode": "RS",
+    "id": "RS2610035NTC",
+    "fetchedPackageCode": "5NTC",
+    "packageCode": "5NTC",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NTC&voyageId=RS2610035NTC"
+    }
+  },
+  {
+    "name": "Mykonos Moons to Spanish Sunrises",
+    "ship": "recnJzrkKkFwwJ7JJ",
+    "date": "2026-10-04",
+    "nights": 7,
+    "itinerary": "recMLaWqMFtSuNmup",
+    "shipCode": "SC",
+    "id": "SC2610047NGM3",
+    "fetchedPackageCode": "7NGM3",
+    "packageCode": "7NGM3",
+    "urls": {
+      "group": "https://www.facebook.com/groups/493997826768898",
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NGM3&voyageId=SC2610047NGM3"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-10-08",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2610084NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2610084NKW"
+    }
+  },
+  {
+    "name": "Hollywood Sunsets & Mexican Horizons",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-10-10",
+    "nights": 7,
+    "itinerary": "recoRWeyEgstYccIm",
+    "shipCode": "BR",
+    "id": "BR2610107NLAX",
+    "fetchedPackageCode": "7NLAX",
+    "packageCode": "7NLAX",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=7NLAX&voyageId=BR2610107NLAX"
+    }
+  },
+  {
+    "name": "Mayan Sol",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-10-12",
+    "nights": 5,
+    "itinerary": "rechIFwiudeuotqaK",
+    "shipCode": "RS",
+    "id": "RS2610125NCM",
+    "fetchedPackageCode": "5NCM",
+    "packageCode": "5NCM",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCM&voyageId=RS2610125NCM"
+    }
+  },
+  {
+    "name": "Riviera Maya",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-10-17",
+    "nights": 5,
+    "itinerary": "recL9lHsgNZjuGhW3",
+    "shipCode": "RS",
+    "id": "RS2610175NCZ",
+    "fetchedPackageCode": "5NCZ",
+    "packageCode": "5NCZ",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=5NCZ&voyageId=RS2610175NCZ"
+    }
+  },
+  {
+    "name": "Cali & Mexico Sunsets (Halloween Edition)",
+    "ship": "recIwsXj0rmNwPWUe",
+    "date": "2026-10-17",
+    "nights": 7,
+    "shipCode": "BR",
+    "id": "BR261017",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=&voyageId=BR261017"
+    }
+  },
+  {
+    "name": "Fire & Sunset Soirées",
+    "ship": "recZFJEuuvYSiJEW0",
+    "date": "2026-10-22",
+    "nights": 4,
+    "itinerary": "recnCSjnh49OjcVgl",
+    "shipCode": "RS",
+    "id": "RS2610224NKW",
+    "fetchedPackageCode": "4NKW",
+    "packageCode": "4NKW",
+    "urls": {
+      "book": "https://www.virginvoyages.com/book/voyage-planner/pre-checkout?agencyId=366&agentId=210878&bookingChannel=FMLINK&cabins=1&packageCode=4NKW&voyageId=RS2610224NKW"
+    }
+  }
+]
