@@ -27,6 +27,36 @@ const singleItemArrayToString = (array) => {
 	return array
 }
 
+const createShortSchedule = (string) => {
+	if (string && string.includes(',')) {
+		// if two items are the same in succession, merge them and add (overnight) - unless they are 'At Sea'
+		const array = string.split(', ')
+		const newArray = []
+		let lastItem = ''
+		array.forEach((item) => {
+			if (item === lastItem) {
+				if (item !== 'At Sea') {
+					newArray[newArray.length - 1] += ' (overnight)'
+				}
+			} else {
+				newArray.push(item)
+			}
+			lastItem = item
+		})
+		return newArray
+	}
+
+	return string
+}
+
+const createSchedule = (string) => {
+	if (string && string.includes(',')) {
+		return string.split(', ')
+	}
+
+	return string
+}
+
 async function updateItineraryDataFromAirtable() {
 	try {
 		const records = await base('Sailings')
@@ -56,6 +86,8 @@ async function updateItineraryDataFromAirtable() {
 				store: record.get('StoreURL'),
 				book: record.get('BookURL'),
 			},
+			schedule: createSchedule(record.get('Schedule')),
+			shortSchedule: createShortSchedule(record.get('ShortSchedule')),
 		}))
 
 		const params = {
