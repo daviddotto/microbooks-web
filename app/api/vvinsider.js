@@ -20,6 +20,14 @@ Airtable.configure({
 })
 var base = Airtable.base('appdfoMlUc5t6ZaVG')
 
+const shortPortAliases = {
+	Piraeus: 'Athens',
+	'Piraeus (Athens)': 'Athens',
+	Civitavecchia: 'Rome',
+	'Civitavecchia (Rome)': 'Rome',
+	'Beach Club at Bimini': 'Bimini',
+}
+
 const singleItemArrayToString = (array) => {
 	if (array && Array.isArray(array) && array.length > 0) {
 		return array[0]
@@ -34,6 +42,7 @@ const createShortSchedule = (string) => {
 		const newArray = []
 		let lastItem = ''
 		array.forEach((item) => {
+			item = shortPortAliases[item] || item
 			if (item === lastItem) {
 				if (item !== 'At Sea') {
 					newArray[newArray.length - 1] += ' (overnight)'
