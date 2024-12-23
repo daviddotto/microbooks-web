@@ -5,7 +5,12 @@ const https = require('https')
 const fs = require('fs')
 const path = require('path')
 const AWS = require('aws-sdk')
+const mongodb = require('mongodb')
 const cron = require('node-cron')
+
+// Configure MongoDB
+const mongoUri = process.env.MONGODB_URI
+const mongoClient = new mongodb.MongoClient(mongoUri)
 
 // Configure AWS
 const s3 = new AWS.S3({
@@ -130,6 +135,27 @@ router.get('/updateItineraryData', async (req, res) => {
 		res.status(200).send('Itinerary data updated successfully')
 	} else {
 		res.status(500).send('Error updating itinerary data')
+	}
+})
+
+router.get('/voyage/:voyageId', async (req, res) => {
+	const voyageId = req.params.voyageId
+	const voyage = await mongoClient
+		.connect()
+		.then((client) => {
+			const db = client.db('voyagesDatabase')
+			const collection = db.collection('voyages')
+			return collection.findOne({ voyageId })
+		})
+		.catch((error) => {
+			console.error('Error fetching voyage:', error)
+			return null
+		})
+
+	if (voyage) {
+		res.status(200).send(voyage)
+	} else {
+		res.status(404).send('Voyage not found')
 	}
 })
 
