@@ -15,12 +15,15 @@ const extensions = require('./lib/extensions/extensions.js')
 // NPM dependencies
 const bodyParser = require('body-parser')
 const express = require('express')
+const cors = require('cors')
 const nunjucks = require('nunjucks')
 const sessionInCookie = require('client-sessions')
 const sessionInMemory = require('express-session')
 const cookieParser = require('cookie-parser')
 
 const app = express()
+
+app.use(cors())
 
 // Set cookies for use in cookie banner.
 app.use(cookieParser())
