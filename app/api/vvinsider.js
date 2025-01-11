@@ -6,7 +6,11 @@ const fs = require('fs')
 const path = require('path')
 const AWS = require('aws-sdk')
 const mongodb = require('mongodb')
+const OpenAI = require('openai')
 const cron = require('node-cron')
+
+// OpenAI configuration
+const openai = new OpenAI()
 
 // Configure MongoDB
 const mongoUri = process.env.MONGODB_URI
@@ -138,6 +142,7 @@ async function updateItineraryDataFromAirtable() {
 						fetchedPackageCode: voyage.fetchedPackageCode,
 						packageCode: voyage.packageCode,
 						urls: voyage.urls,
+						recordId: voyage.recordId,
 						needsContentUpdate:
 							!voyage.wpContentLastUpdated ||
 							voyage.wpContentLastUpdated === 'false',
@@ -158,6 +163,7 @@ async function updateItineraryDataFromAirtable() {
 					fetchedPackageCode: voyage.fetchedPackageCode,
 					packageCode: voyage.packageCode,
 					urls: voyage.urls,
+					recordId: voyage.recordId,
 					needsContentUpdate:
 						!voyage.wpContentLastUpdated ||
 						voyage.wpContentLastUpdated === 'false',
@@ -230,6 +236,94 @@ async function updateItineraryDataFromAirtable() {
 
 cron.schedule('*/10 * * * *', () => {
 	updateItineraryDataFromAirtable()
+})
+
+router.get('/generateContentFor/:voyageId', async (req, res) => {
+	const voyageId = req.params.voyageId.toUpperCase()
+	const voyage = await mongoClient
+		.connect()
+		.then((client) => {
+			const db = client.db('voyagesDatabase')
+			const collection = db.collection('voyages')
+			return collection.findOne({ voyageId })
+		})
+		.catch((error) => {
+			console.error('Error fetching voyage:', error)
+			return null
+		})
+
+	if (voyage) {
+		try {
+			const dataForQuery = {
+				name: voyage.name,
+				region: voyage.region,
+				origin: voyage.origin,
+				ship: voyage.ship,
+				date: voyage.date,
+				nights: voyage.nights,
+				storeUrl: voyage.urls.store,
+				schedule: voyage.schedule,
+			}
+
+			const prompt =
+				'Generate an informative overview of the sailing in HTML format. Include links to popular events and venues using pages from vvinsider.com based on the ship the sailing belongs to. For reference, the links to events and venues on each on the ships can be found on these pages: Scarlet Lady use "https://vvinsider.com/ship/scarlet-lady/", Valiant Lady use "https://vvinsider.com/ship/valiant-lady/", Resilient Lady use "https://vvinsider.com/ship/resilient-lady/", and Brilliant Lady use "https://vvinsider.com/ship/brilliant-lady/". Also, use vvinsider.com guides to help inform the content. The content should be unique and informative. Use the voyage schedule data provided to inform readers about the ports and stops on the voyage, evaluate (but do not include) the times to explain if the sailors have a long time / evening to enjoy the ports or if they have a short time so to choose an excursion to make the most of their limited time for example - do not include the ACTUAL times in the prose as they might change prior to the sailing and may be misleading. The schedule will be listed seperately on the page so do not list the itinerary itself in this content. Your output should be informative and factual, include great facts and must-see spots at the ports of call. Include a H2 like "Featured Places" or "Top Sights" or similar... For each port of call (excluding the origin port) include some structured bullets point content underneath about the best sights and places to visit - DO NOT include any links in this section. Around 2-4 paragraphs should be sufficient with bullet-point lists as and when appropriate for listing activities in ports for example. - Make sure the output is in HTML format, DO NOT include any Markdown. Use <b> and <i> tags for bold and italic text to emphesize important parts of the contnet. Use American English spelling.'
+
+			const response = await openai.chat.completions.create({
+				model: 'gpt-4o-mini',
+				messages: [
+					{
+						role: 'system',
+						content:
+							'You are a helpful assistant that generates HTML content for voyages. This HTML content will be used in the Wordpress editor so do not include surrounding HTML tags, a H1 heading or any other structure or formatting, just the content itself, headers, links, paragraphs, ordered and unordered lists for example. Do not include pricing information as this will change on a regular basis. If there is a "store" url, this is a link to our exclusive merchendise store so include a small bit of content about the t-shirts that are for sale here - make sure the ahref is well-written to best improve our SEO. The content should not include any specific times-of-day as these might change. Try to keep the language natural and engaging without straying into overly saccharine or overly "sales-y" language. Avoid the use of too many flowery adjectives. As we a re not the actual cruise line, do not include language like "we" or "our" "join us" or "us" in the content.',
+					},
+					{
+						role: 'user',
+						content: `${prompt}\n\nVoyage Data:\n${JSON.stringify(
+							dataForQuery,
+							null,
+							2
+						)}`,
+					},
+				],
+				max_tokens: 1500,
+				n: 1,
+				stop: null,
+				temperature: 0.7,
+			})
+
+			let content = response.choices[0].message.content
+
+			// add content to the voyage document in MongoDB
+			await mongoClient.connect()
+			const db = mongoClient.db('voyagesDatabase')
+			const collection = db.collection('voyages')
+			// find and update using the voyageId
+			const update = {
+				$set: {
+					content,
+					needsContentUpdate: true,
+				},
+			}
+			await collection.updateOne({ voyageId }, update)
+
+			// Update airtable to remove the date in WPContentLastUpdated field
+			await base('Sailings').update([
+				{
+					id: voyage.recordId,
+					fields: {
+						WPContentLastUpdated: false,
+					},
+				},
+			])
+
+			res.status(200).send('Content generated successfully')
+		} catch (error) {
+			console.error('Error generating content:', error)
+			res.status(500).send('Error generating content')
+		}
+	} else {
+		res.status(404).send('Voyage not found')
+	}
 })
 
 router.get('/updateItineraryData', async (req, res) => {
