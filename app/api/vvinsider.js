@@ -121,13 +121,23 @@ async function updateItineraryDataFromAirtable() {
 		})
 
 		// Update MongoDB with any new or updated voyages
-		// Update fields: name, date, nights, itinerary, region, origin, fetchedPackageCode, packageCode, urls - additionally, set needsContentUpdate to true where  wpContentLastUpdated is blank or false - set to false otherwise
+		// Update fields: name, date, nights, itinerary, region, origin, fetchedPackageCode, packageCode, urls - additionally, set needsContentUpdate to true where  wpContentLastUpdated is blank or false or is 1/1/1970 - set to false otherwise
 		await mongoClient.connect()
 		const db = mongoClient.db('voyagesDatabase')
 		const collection = db.collection('voyages')
 
 		const promises = updatedVoyages.map(async (voyage) => {
 			const existingVoyage = await collection.findOne({ voyageId: voyage.id })
+
+			let needsContentUpdate = false
+			if (voyage.wpContentLastUpdated) {
+				let wpContentLastUpdated = new Date(voyage.wpContentLastUpdated)
+				if (wpContentLastUpdated.toISOString() === '1970-01-01T00:00:00.000Z') {
+					needsContentUpdate = true
+				}
+			} else {
+				needsContentUpdate = true
+			}
 
 			if (existingVoyage) {
 				const update = {
@@ -143,9 +153,7 @@ async function updateItineraryDataFromAirtable() {
 						packageCode: voyage.packageCode,
 						urls: voyage.urls,
 						recordId: voyage.recordId,
-						needsContentUpdate:
-							!voyage.wpContentLastUpdated ||
-							voyage.wpContentLastUpdated === 'false',
+						needsContentUpdate,
 					},
 				}
 
@@ -164,9 +172,7 @@ async function updateItineraryDataFromAirtable() {
 					packageCode: voyage.packageCode,
 					urls: voyage.urls,
 					recordId: voyage.recordId,
-					needsContentUpdate:
-						!voyage.wpContentLastUpdated ||
-						voyage.wpContentLastUpdated === 'false',
+					needsContentUpdate,
 				})
 			}
 		})
