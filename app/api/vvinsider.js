@@ -9,6 +9,8 @@ const mongodb = require('mongodb')
 const OpenAI = require('openai')
 const cron = require('node-cron')
 
+const processVoyageData = require('./lib/voyage-data')
+
 // OpenAI configuration
 const openai = new OpenAI()
 
@@ -110,6 +112,8 @@ async function updateItineraryDataFromAirtable() {
 			lastUpdated: record.get('LastUpdated'),
 			wpContentLastUpdated: record.get('WPContentLastUpdated'),
 			recordId: record.id,
+			prerelease: record.get('Prerelease'),
+			wordpressSlug: record.get('WordPressSlug'),
 		}))
 
 		// Loop through data to identify any newly updated voyages that need to be updated in MongoDB, using a margin of error of 20 second
@@ -154,6 +158,8 @@ async function updateItineraryDataFromAirtable() {
 						urls: voyage.urls,
 						recordId: voyage.recordId,
 						needsContentUpdate,
+						prerelease: voyage.prerelease,
+						wordpressSlug: voyage.wordpressSlug,
 					},
 				}
 
@@ -173,6 +179,8 @@ async function updateItineraryDataFromAirtable() {
 					urls: voyage.urls,
 					recordId: voyage.recordId,
 					needsContentUpdate,
+					prerelease: voyage.prerelease,
+					wordpressSlug: voyage.wordpressSlug,
 				})
 			}
 		})
@@ -342,7 +350,12 @@ router.get('/updateItineraryData', async (req, res) => {
 })
 
 router.get('/voyage/:voyageId', async (req, res) => {
-	const voyageId = req.params.voyageId
+	let voyageId = req.params.voyageId
+	if (!voyageId) {
+		res.status(400).send('Voyage ID is required')
+		return
+	}
+	voyageId = voyageId.toUpperCase()
 	const voyage = await mongoClient
 		.connect()
 		.then((client) => {
@@ -356,7 +369,8 @@ router.get('/voyage/:voyageId', async (req, res) => {
 		})
 
 	if (voyage) {
-		res.status(200).send(voyage)
+		const voyageData = processVoyageData(voyage)
+		res.status(200).send(voyageData)
 	} else {
 		res.status(404).send('Voyage not found')
 	}
